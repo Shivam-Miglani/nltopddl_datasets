@@ -1,0 +1,2003 @@
+tokens,exclusive_related_actions,state_with_label
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'On', 'the', 'view', 'menu', 'click', 'large', 'icons', 'On', 'the', 'view', 'menu', 'click', 'small', 'icons']","{0: [], 2: [], 7: [], 14: [], 21: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'and', 'then', 'double-click', 'regional', 'options', 'Under', 'language', 'settings', 'for', 'the', 'system', 'click', 'to', 'select', 'the', 'japanese', 'check', 'box', 'In', 'the', 'your', 'locale', '(location)', 'list', 'click', 'japanese', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 5: [], 10: [], 19: [], 21: [], 32: [], 36: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.06557172  0.50311065
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.05205366  0.04047692
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.31588548  0.08632084
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'and', 'the', 'double-click', 'system', 'On', 'the', 'hardware', 'tab', 'click', 'device', 'manager']","{0: [], 2: [], 5: [], 10: [], 16: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.13741434  0.58727628
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.02121835 -0.06127842
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.2171814   0.07960549
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'and', 'then', 'double-click', 'display', 'Click', 'the', 'screen', 'saver', 'tab', 'click', 'the', 'channel', 'screen', 'saver', 'in', 'the', 'screen', 'saver', 'box', 'and', 'then', 'click', 'settings', 'Click', 'to', 'select', 'the', 'desired', 'channel', 'screen', 'savers', 'in', 'the', 'channels', 'box', 'click', 'ok', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 5: [], 10: [], 12: [], 17: [], 29: [], 31: [], 33: [], 43: [], 47: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.04187091  0.57188314
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.06888557  0.01060938
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.33399981  0.05123629
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'the', 'internet', 'explorer', 'icon', 'on', 'your', 'desktop', 'and', 'then', 'click', 'properties', 'On', 'the', 'security', 'tab', 'click', 'the', 'internet', 'icon', 'and', 'then', 'click', 'custom', 'level', 'Change', 'the', 'run', 'activex', 'controls', 'and', 'plug-ins', 'option', 'to', 'either', 'enable', 'or', 'prompt', 'Click', 'ok']","{0: [], 10: [], 16: [], 22: [], 25: [], 38: []}","[[ 0.          0.          0.         ...  0.02609544  0.00559853
+   2.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.60342449  0.37973532
+   1.        ]
+ [ 0.17614     0.0020898   0.14669999 ...  0.13276732  0.15608096
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Start', 'internet', 'explorer', 'On', 'the', 'tools', 'menu', 'click', 'internet', 'options', 'Click', 'the', 'advanced', 'tab', 'Click', 'to', 'clear', 'or', 'select', 'the', 'enable', 'personalized', 'favorites', 'menu', 'check', 'box', 'Click', 'ok']","{0: [], 7: [], 10: [], 14: [], 16: [18], 18: [16], 26: []}","[[ 0.23336001  0.16042     0.050714   ...  0.03004482 -0.13090153
+   2.        ]
+ [ 0.17614     0.0020898   0.14669999 ... -0.17981125  0.44657665
+   1.        ]
+ [-0.72951001 -0.16535001  0.85606998 ... -0.24562666 -0.01754175
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'the', 'folder', 'and', 'then', 'click', 'properties', 'On', 'the', 'general', 'tab', 'click', 'advanced', 'Click', 'to', 'select', 'the', 'for', 'fast', 'searching', 'allow', 'the', 'index', 'service', 'to', 'index', 'this', 'folder', 'check', 'box', 'click', 'ok', 'and', 'then', 'click', 'apply', 'When', 'you', 'are', 'prompted', 'to', 'apply', 'these', 'settings', 'click', 'all', 'folders', 'sub-folders', 'and', 'files', 'and', 'then', 'click', 'ok']","{0: [], 5: [], 11: [], 13: [], 15: [], 30: [], 34: [], 41: [], 44: [], 52: []}","[[ 0.          0.          0.         ...  0.05788843 -0.02150221
+   2.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.57651234  0.24242133
+   1.        ]
+ [-0.81952     0.45131999  0.42394999 ...  0.14802831  0.18035746
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'click', 'run', 'in', 'the', 'open', 'box', 'type', 'dcomcnfg', 'and', 'then', 'click', 'ok', 'On', 'the', 'default', 'properties', 'tab', 'click', 'any', 'setting', 'other', 'than', 'anonymous', 'in', 'the', 'default', 'impersonation', 'level', 'box', 'the', 'default', 'setting', 'is', 'identify']","{0: [], 2: [], 8: [], 12: [], 19: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03340827  0.44089505
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.00850736 -0.09437104
+   1.        ]
+ [-0.76673001 -0.35962     0.38721001 ...  0.21189672  0.23391636
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Start', 'windows', 'explorer', 'On', 'the', 'tools', 'menu', 'click', 'folder', 'options', 'Click', 'the', 'file', 'types', 'tab', 'In', 'the', 'registered', 'file', 'types', 'box', 'click', 'the', 'htm', 'extension', 'and', 'then', 'click', 'advanced', 'In', 'the', 'actions', 'box', 'click', 'print', 'and', 'then', 'click', 'edit', 'Replace', 'the', 'entry', 'in', 'the', 'application', 'used', 'to', 'perform', 'action', 'box', 'with', 'the', 'following', 'line', 'type', 'it', 'as', 'shown', 'rundll32.exe', 'c:\\winnt\\system32\\mshtml.dll', 'printhtml', '""%1""', 'Click', 'ok', 'click', 'ok', 'and', 'then', 'click', 'ok']","{0: [], 7: [], 10: [], 21: [], 27: [], 33: [], 37: [], 39: [], 54: [], 62: [], 64: [], 68: []}","[[ 0.23336001  0.16042     0.050714   ...  0.07020026 -0.1697928
+   2.        ]
+ [-0.54193997  0.39576     0.21015    ...  0.06525613  0.55229563
+   1.        ]
+ [-0.72951001 -0.16535001  0.85606998 ...  0.1182471   0.20694979
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'and', 'then', 'double-click', 'power', 'options', 'Click', 'the', 'ups', 'tab', 'and', 'then', 'click', 'select', 'In', 'the', 'on', 'port', 'box', 'click', 'your', 'com', 'port', 'Click', 'finish', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 5: [], 10: [], 13: [], 19: [], 26: [], 30: [], 34: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.01607856  0.54200542
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.03803828  0.04501352
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.30746779  0.09823342
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Start', 'internet', 'explorer', 'On', 'the', 'view', 'menu', 'click', 'toolbars', 'and', 'then', 'click', 'customize', 'In', 'the', 'customize', 'toolbar', 'dialog', 'box', 'click', 'the', 'down', 'arrow', 'in', 'the', 'icon', 'options', 'box', 'click', 'large', 'icons', 'and', 'then', 'click', 'close']","{0: [], 7: [], 11: [], 19: [], 28: [], 33: []}","[[ 0.23336001  0.16042     0.050714   ...  0.03004482 -0.13090153
+   2.        ]
+ [ 0.17614     0.0020898   0.14669999 ... -0.17981125  0.44657665
+   1.        ]
+ [-0.72951001 -0.16535001  0.85606998 ... -0.24562666 -0.01754175
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'click', 'run', 'and', 'then', 'type', 'dcomcnfg', 'in', 'the', 'open', 'box', 'Click', 'ok', 'and', 'click', 'the', 'default', 'properties', 'tab', 'Click', 'identify', 'in', 'the', 'default', 'impersonation', 'level', 'box', 'Click', 'apply', 'or', 'ok']","{0: [], 2: [], 6: [], 12: [], 15: [], 20: [], 28: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.00548441  0.56303668
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.02872679 -0.13624291
+   1.        ]
+ [-0.76673001 -0.35962     0.38721001 ...  0.1533846   0.09140795
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Start', 'internet', 'explorer', 'On', 'the', 'tools', 'menu', 'click', 'internet', 'options', 'On', 'the', 'general', 'tab', 'click', 'accessibility', 'Click', 'to', 'select', 'the', 'ignore', 'font', 'sizes', 'specified', 'on', 'web', 'pages', 'check', 'box', 'Click', 'ok', 'twice']","{0: [], 7: [], 14: [], 16: [], 18: [], 29: []}","[[ 0.23336001  0.16042     0.050714   ...  0.03004482 -0.13090153
+   2.        ]
+ [ 0.17614     0.0020898   0.14669999 ... -0.17981125  0.44657665
+   1.        ]
+ [-0.72951001 -0.16535001  0.85606998 ... -0.24562666 -0.01754175
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Double-Click', 'my', 'computer', 'On', 'the', 'tools', 'menu', 'click', 'folder', 'options', 'Click', 'the', 'file', 'types', 'tab', 'Under', 'registered', 'file', 'types', 'click', 'to', 'select', 'doc', 'microsoft', 'word', 'document', 'or', 'xls', 'microsoft', 'excel', 'worksheet', 'and', 'then', 'click', 'advanced', 'Click', 'to', 'clear', 'the', 'confirm', 'open', 'after', 'download', 'check', 'box', 'and', 'then', 'click', 'ok']","{0: [], 7: [], 10: [], 19: [], 21: [], 33: [], 35: [], 37: [], 47: []}","[[ 0.          0.          0.         ... -0.0262778  -0.06155529
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.05461434 -0.2096357
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ... -0.11416405  0.19584274
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'computer', 'and', 'then', 'click', 'manage', 'Double-Click', 'system', 'tools', 'Double-Click', 'local', 'users', 'and', 'groups', 'Double-Click', 'users', 'On', 'the', 'action', 'menu', 'click', 'new', 'user']","{0: [], 5: [], 7: [], 10: [], 15: [], 21: []}","[[ 0.          0.          0.         ... -0.00468132  0.0256799
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.15590973 -0.18977147
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ... -0.06251919  0.19023618
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'keyboard', 'click', 'the', 'input', 'locales', 'tab', 'and', 'then', 'click', 'add', 'In', 'the', 'input', 'locale', 'box', 'click', 'basque', 'In', 'the', 'keyboard', 'layout/ime', 'box', 'click', 'spanish', 'variation', 'Click', 'ok', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 7: [], 10: [], 12: [], 19: [], 26: [], 33: [], 36: [], 40: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'programs', 'point', 'to', 'accessories', 'point', 'to', 'accessability', 'and', 'then', 'click', 'magnifier', 'Click', 'the', 'follow', 'mouse', 'cursor', 'check', 'box', 'to', 'select', 'it', 'and', 'then', 'click', 'exit']","{0: [], 2: [], 5: [], 8: [], 13: [], 15: [], 23: [], 27: []}","[[-7.66730011e-01 -3.59620005e-01  3.87210011e-01 ... -8.65674317e-02
+   5.17957628e-01  2.00000000e+00]
+ [ 2.33360007e-01  1.60420001e-01  5.07140011e-02 ... -4.73835945e-01
+  -1.23730697e-01  1.00000000e+00]
+ [ 1.72690004e-01 -2.76090000e-02  4.99009997e-01 ... -8.31167027e-02
+  -1.68947875e-03  2.00000000e+00]
+ ...
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'power', 'options', 'On', 'the', 'advanced', 'tab', 'click', 'to', 'select', 'the', 'prompt', 'for', 'password', 'when', 'computer', 'goes', 'off', 'standby', 'check', 'box', 'Click', 'ok']","{0: [], 2: [], 7: [], 10: [], 17: [], 19: [], 31: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'users', 'and', 'passwords', 'On', 'the', 'advanced', 'tab', 'click', 'advanced']","{0: [], 2: [], 7: [], 10: [], 18: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'users', 'and', 'passwords', 'Click', 'to', 'select', 'the', 'users', 'must', 'enter', 'a', 'user', 'name', 'and', 'password', 'to', 'use', 'this', 'computer', 'check', 'box']","{0: [], 2: [], 7: [], 10: [], 14: [], 16: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'and', 'then', 'click', 'run', 'In', 'the', 'open', 'box', 'type', 'conf.exe', 'and', 'then', 'click', 'ok']","{0: [], 4: [], 10: [], 14: []}","[[-7.66730011e-01 -3.59620005e-01  3.87210011e-01 ... -8.62208977e-02
+   3.47338617e-01  2.00000000e+00]
+ [ 2.33360007e-01  1.60420001e-01  5.07140011e-02 ... -1.57166332e-01
+  -4.15991485e-01  1.00000000e+00]
+ [-7.19529986e-02  2.31270000e-01  2.37310007e-02 ...  1.93878978e-01
+   1.84503850e-03  1.00000000e+00]
+ ...
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'system', 'On', 'the', 'advanced', 'tab', 'click', 'startup', 'and', 'recovery', 'Click', 'to', 'clear', 'the', 'automatically', 'reboot', 'check', 'box', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 7: [], 10: [], 16: [], 20: [], 22: [], 30: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'accessibility', 'options', 'Under', 'filterkeys', 'click', 'settings', 'Under', 'keyboard', 'shortcut', 'click', 'to', 'clear', 'the', 'use', 'shortcut', 'check', 'box']","{0: [], 2: [], 7: [], 10: [], 15: [], 20: [], 22: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'display', 'Click', 'the', 'effects', 'tab', 'Click', 'to', 'clear', 'the', 'show', 'window', 'contents', 'while', 'dragging', 'check', 'box', 'Click', 'ok']","{0: [], 2: [], 7: [], 10: [], 12: [], 16: [], 18: [], 27: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['On', 'the', 'start', 'menu', 'click', 'help', 'Click', 'the', 'search', 'tab', 'In', 'the', 'type', 'in', 'the', 'keyword', 'to', 'find', 'box', 'type', 'large', 'fonts', 'Click', 'list', 'topics']","{4: [], 6: [], 12: [], 19: [], 22: []}","[[-0.21863    -0.42664     0.51959997 ...  0.25032571 -0.18631251
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.55733824  0.19724391
+   1.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.0206313   0.30969957
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Double-Click', 'my', 'computer', 'and', 'then', 'right-click', 'local', 'disk', '(c:)', 'Click', 'properties', 'and', 'then', 'click', 'tools', 'In', 'error-checking', 'click', 'check', 'now']","{0: [], 5: [], 9: [], 13: [], 17: []}","[[ 0.          0.          0.         ...  0.05393553  0.111596
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.20185453 -0.20946708
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ...  0.09077556  0.24736896
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'programs', 'point', 'to', 'administrative', 'tools', 'and', 'then', 'click', 'local', 'security', 'policy', 'In', 'the', 'left', 'pane', 'click', 'local', 'policies', 'and', 'then', 'in', 'the', 'right', 'pane', 'double-click', 'security', 'options', 'In', 'the', 'right', 'pane', 'double-click', 'secure', 'channel:', 'digitally', 'encrypt', 'or', 'sign', 'secure', 'channel', 'data', '(always)', 'In', 'the', 'local', 'security', 'policy', 'setting', 'dialog', 'box', 'click', 'disabled', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 5: [], 10: [], 19: [], 28: [], 35: [], 54: [], 58: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.16832775  0.51499224
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.47075108 -0.00425631
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ... -0.07959343 -0.01367796
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'administrative', 'tools', 'and', 'then', 'double-click', 'event', 'viewer', 'Right-Click', 'the', 'system', 'log', 'file', 'and', 'then', 'click', 'properties', 'Click', 'overwrite', 'as', 'needed', 'or', 'set', 'a', 'larger', 'maximum', 'log', 'file', 'size', 'Click', 'ok']","{0: [], 2: [], 7: [], 10: [], 15: [], 18: [], 25: [], 27: [32], 32: [27], 39: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'system', 'On', 'the', 'hardware', 'tab', 'click', 'device', 'manager', 'In', 'device', 'manager', 'click', 'the', 'plus', 'symbol', 'next', 'to', 'dvd/cd-rom', 'drives', 'and', 'then', 'click', 'your', 'cdrw/dvd', 'drive', 'On', 'the', 'action', 'menu', 'click', 'properties', 'On', 'the', 'properties', 'tab', 'click', 'to', 'select', 'the', 'enable', 'digital', 'cd', 'audio', 'for', 'this', 'cd-rom', 'device', 'Click', 'ok', 'and', 'then', 'restart', 'your', 'computer', 'when', 'you', 'are', 'prompted']","{0: [], 2: [], 7: [], 10: [], 16: [], 22: [], 32: [], 40: [], 46: [], 48: [], 58: [], 62: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'network', 'and', 'dial-up', 'connections', 'Right-Click', 'the', 'dial-up', 'adapter', 'and', 'then', 'click', 'properties', 'Click', 'the', 'networking', 'tab', 'In', 'the', 'type', 'of', 'dial-up', 'server', 'i', 'am', 'calling', 'box', 'click', 'ppp:', 'windows', '95/98/nt/2000', 'internet', 'Click', 'settings', 'Click', 'to', 'clear', 'the', 'negotiate', 'multi-link', 'for', 'single', 'link', 'connections', 'check', 'box', 'Click', 'ok', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 7: [], 12: [], 18: [], 20: [], 34: [], 39: [], 41: [], 43: [], 53: [], 57: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.05202489  0.29802132
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.08270951  0.0202793
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.12110588  0.05570876
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'programs', 'click', 'administrative', 'tools', 'and', 'then', 'double-click', 'local', 'security', 'policy', 'Double-Click', 'local', 'policies', 'Double-Click', 'security', 'options', 'In', 'the', 'right', 'pane', 'double-click', 'prevent', 'users', 'from', 'installing', 'printer', 'drivers', 'Click', 'disabled', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 5: [], 10: [], 14: [], 17: [], 24: [], 31: [], 35: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.04162597  0.64680499
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.16678411 -0.1311394
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.08632807  0.009392
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'click', 'run', 'in', 'the', 'open', 'box', 'type', 'secpol.msc', 'and', 'then', 'click', 'ok', 'Double-Click', 'local', 'policies', 'Double-Click', 'user', 'rights', 'assignment', 'Double-Click', 'back', 'up', 'files', 'and', 'directories', 'Click', 'add', 'and', 'then', 'double-click', 'the', 'administrators', 'group', 'Click', 'ok']","{0: [], 2: [], 8: [], 12: [], 14: [], 17: [], 21: [], 27: [], 31: [], 35: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.02072378  0.44172639
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.0247595  -0.13387255
+   1.        ]
+ [-0.76673001 -0.35962     0.38721001 ...  0.19224083  0.15499476
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'programs', 'point', 'to', 'administrative', 'tools', 'and', 'then', 'click', 'local', 'security', 'policy', 'Under', 'security', 'settings', 'double-click', 'local', 'policies', 'and', 'then', 'click', 'security', 'options', 'Double-Click', 'additional', 'restrictions', 'for', 'anonymous', 'connections', 'and', 'then', 'under', 'local', 'policy', 'setting', 'click', 'not', 'defined', 'or', 'none.', 'rely', 'on', 'default', 'permissions']","{2: [], 5: [], 11: [], 18: [], 23: [], 26: [], 38: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.16832775  0.51499224
+   1.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.47075108 -0.00425631
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ... -0.07959343 -0.01367796
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'start', 'and', 'then', 'click', 'explore', 'On', 'the', 'tools', 'menu', 'click', 'folder', 'options', 'Click', 'the', 'view', 'tab', 'and', 'then', 'in', 'the', 'advanced', 'settings', 'list', 'under', 'files', 'and', 'folders', 'do', 'the', 'following', 'Under', 'hidden', 'files', 'and', 'folders', 'click', 'show', 'hidden', 'files', 'and', 'folders', 'Click', 'to', 'clear', 'the', 'hide', 'file', 'extensions', 'for', 'known', 'file', 'types', 'check', 'box']","{0: [], 4: [], 10: [], 13: [], 36: [], 42: [], 44: []}","[[ 0.          0.          0.         ... -0.044404    0.00207978
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08641519 -0.32779384
+   1.        ]
+ [-0.071953    0.23127     0.023731   ...  0.18431365  0.06736945
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'and', 'then', 'click', 'help', 'On', 'the', 'search', 'tab', 'type', 'internet', 'connection', 'sharing', 'in', 'the', 'type', 'in', 'the', 'keyword', 'to', 'find', 'box', 'and', 'then', 'click', 'list', 'topics', 'Double-Click', 'internet', 'connection', 'sharing', 'in', 'the', 'select', 'topic', 'box']","{0: [], 4: [], 10: [], 16: [], 25: [], 28: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.0037939   0.4386206
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.06689038 -0.2612958
+   1.        ]
+ [-0.071953    0.23127     0.023731   ...  0.24970144  0.07521956
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'network', 'and', 'dial-up', 'connections', 'Right-Click', 'the', 'appropriate', 'dial-up', 'network', 'and', 'then', 'click', 'properties', 'Click', 'the', 'networking', 'tab', 'and', 'then', 'click', 'settings', 'Click', 'to', 'clear', 'the', 'negotiate', 'multi-link', 'for', 'single', 'link', 'connections', 'check', 'box', 'if', 'it', 'is', 'selected', 'Click', 'ok', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 7: [], 12: [], 19: [], 21: [], 27: [], 29: [], 31: [], 44: [], 45: [], 49: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.05202489  0.29802132
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.08270951  0.0202793
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.12110588  0.05570876
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'click', 'run', 'type', 'services.msc', 'in', 'the', 'open', 'box', 'and', 'then', 'click', 'ok', 'In', 'the', 'list', 'of', 'services', 'double-click', 'tcp/ip', 'netbios', 'helper', 'service', 'In', 'the', 'startup', 'type', 'list', 'click', 'automatic', 'and', 'then', 'click', 'apply', 'Under', 'service', 'status', 'click', 'start', 'to', 'start', 'the', 'tcp/ip', 'netbios', 'helper', 'service', 'When', 'the', 'service', 'is', 'started', 'click', 'ok', 'and', 'then', 'quit', 'the', 'services', 'snap-in']","{0: [], 2: [], 4: [], 12: [], 19: [], 27: [], 29: [], 33: [], 38: [], 41: [], 52: [], 56: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.06582485  0.39359117
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.07033105 -0.13858999
+   1.        ]
+ [-0.76673001 -0.35962     0.38721001 ...  0.10637154  0.11108138
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'printers', 'Click', 'the', 'paintjet', 'printer', 'and', 'then', 'click', 'properties', 'on', 'the', 'file', 'menu', 'Click', 'the', 'device', 'settings', 'tab', 'Click', 'send', 'ctrl-d', 'after', 'each', 'job', 'and', 'then', 'click', 'no', 'in', 'the', 'list', 'box']","{0: [], 2: [], 7: [], 9: [], 15: [], 21: [], 26: [], 34: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.04457587  0.28138214
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.05461794 -0.09143645
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.0717498   0.00561295
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'network', 'places', 'and', 'then', 'click', 'properties', 'Right-Click', 'the', 'local', 'area', 'connection', 'icon', 'and', 'then', 'click', 'properties', 'Click', 'install', 'click', 'client', 'and', 'then', 'click', 'add', 'In', 'the', 'network', 'client', 'box', 'click', 'client', 'for', 'microsoft', 'networks', 'and', 'then', 'click', 'ok', 'In', 'the', 'local', 'area', 'connections', 'properties', 'window', 'click', 'ok']","{0: [], 6: [], 8: [], 16: [], 18: [], 20: [], 24: [], 31: [], 38: [], 47: []}","[[ 0.          0.          0.         ...  0.09262022  0.11115278
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.49870336  0.18743245
+   1.        ]
+ [ 0.22336    -0.18421    -0.071397   ... -0.0392958   0.07156568
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'and', 'then', 'point', 'to', 'settings', 'Click', 'network', 'and', 'dial-up', 'connections', 'Double-Click', 'the', 'applicable', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'In', 'the', 'components', 'pane', 'click', 'internet', 'protocol', '(tcp/ip)', 'and', 'then', 'click', 'properties', 'Click', 'advanced', 'click', 'the', 'wins', 'tab', 'and', 'then', 'click', 'enable', 'netbios', 'over', 'tcp/ip', 'Click', 'ok', 'to', 'close', 'all', 'the', 'dialog', 'boxes']","{0: [], 4: [], 7: [], 12: [], 20: [], 26: [], 32: [], 34: [], 36: [], 42: [], 47: [], 50: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.06605329  0.312249
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.03975092 -0.25084648
+   1.        ]
+ [-0.071953    0.23127     0.023731   ...  0.19651884  0.04913793
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'programs', 'point', 'to', 'administrative', 'tools', 'and', 'then', 'click', 'services', 'Right-Click', 'internet', 'connection', 'sharing', 'and', 'then', 'click', 'properties', 'Under', 'startup', 'type', 'click', 'disabled', 'Under', 'service', 'status', 'click', 'stop', 'Click', 'ok']","{0: [], 2: [], 5: [], 11: [], 13: [], 19: [], 24: [], 29: [], 31: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.12938169  0.46307418
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.42848432 -0.07534203
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ... -0.13734148 -0.03914687
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Start', 'windows', 'explorer', 'On', 'the', 'tools', 'menu', 'click', 'folder', 'options', 'Click', 'the', 'view', 'tab', 'Click', 'to', 'clear', 'the', 'launch', 'folder', 'windows', 'in', 'a', 'separate', 'process', 'check', 'box', 'and', 'then', 'click', 'ok']","{0: [], 7: [], 10: [], 14: [], 16: [], 29: []}","[[ 0.23336001  0.16042     0.050714   ...  0.07020026 -0.1697928
+   2.        ]
+ [-0.54193997  0.39576     0.21015    ...  0.06525613  0.55229563
+   1.        ]
+ [-0.72951001 -0.16535001  0.85606998 ...  0.1182471   0.20694979
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'the', 'my', 'computer', 'icon', 'on', 'your', 'desktop', 'and', 'then', 'click', 'manage', 'In', 'the', 'computer', 'management', 'console', 'double-click', 'services', 'and', 'applications', 'and', 'then', 'click', 'services', 'In', 'the', 'rightmost', 'window', 'right-click', 'dhcp', 'client', 'and', 'then', 'click', 'properties', 'Change', 'startup', 'type', 'to', 'automatic', 'and', 'then', 'click', 'ok', 'Right-Click', 'the', 'dhcp', 'client', 'service', 'again', 'and', 'then', 'click', 'start']","{0: [], 10: [], 17: [], 23: [], 29: [], 34: [], 36: [], 43: [], 45: [], 53: []}","[[ 0.          0.          0.         ...  0.06584519  0.04778414
+   2.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.71470219  0.53256524
+   1.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.24483261 -0.48994532
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'and', 'then', 'double-click', 'network', 'and', 'dial-up', 'connections', 'Right-Click', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'Click', 'install', 'click', 'protocol', 'and', 'then', 'click', 'add', 'Click', 'network', 'monitor', 'driver', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 5: [], 10: [], 15: [], 21: [], 23: [], 25: [], 29: [], 31: [], 37: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.00502431  0.59043109
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.02297313 -0.00283917
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.23163609  0.03078143
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'network', 'places', 'and', 'then', 'click', 'properties', 'Double-Click', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'Click', 'to', 'select', 'the', 'file', 'and', 'print', 'sharing', 'for', 'microsoft', 'networks', 'check', 'box', 'and', 'then', 'click', 'ok']","{0: [], 6: [], 8: [], 14: [], 16: [], 18: [], 31: []}","[[ 0.          0.          0.         ...  0.09262022  0.11115278
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.49870336  0.18743245
+   1.        ]
+ [ 0.22336    -0.18421    -0.071397   ... -0.0392958   0.07156568
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'programs', 'point', 'to', 'administrative', 'tools', 'and', 'then', 'click', 'services', 'Right-Click', 'internet', 'connection', 'sharing', 'and', 'then', 'click', 'start']","{0: [], 2: [], 5: [], 11: [], 13: [], 19: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.12938169  0.46307418
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.42848432 -0.07534203
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ... -0.13734148 -0.03914687
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'the', 'click', 'printers', 'In', 'the', 'printers', 'dialog', 'box', 'right-click', 'your', 'printer', 'and', 'then', 'click', 'properties', 'On', 'the', 'advanced', 'tab', 'click', 'print', 'processor', 'In', 'the', 'default', 'datatype', 'list', 'click', 'raw', 'and', 'then', 'click', 'ok', 'Click', 'ok', 'to', 'close', 'the', 'printer', 'properties', 'dialog', 'box']","{0: [], 2: [], 7: [], 14: [], 19: [], 25: [], 33: [], 37: [], 39: [], 42: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.11202478  0.32450333
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.00594    -0.07410648
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.00697366 -0.03573596
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'and', 'then', 'double-click', 'network', 'and', 'dial-up', 'connections', 'Right-Click', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'Click', 'install', 'click', 'service', 'in', 'the', 'select', 'network', 'component', 'type', 'box', 'and', 'then', 'click', 'add', 'Click', 'sap', 'agent', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 5: [], 10: [], 15: [], 21: [], 23: [], 25: [], 36: [], 38: [], 43: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.00502431  0.59043109
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.02297313 -0.00283917
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.23163609  0.03078143
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'printers', 'Right-Click', 'the', 'hp', '1600', 'cm/ps', 'printer', 'and', 'then', 'click', 'properties', 'On', 'the', 'advanced', 'tab', 'click', 'new', 'driver', 'Click', 'next', 'In', 'the', 'manufacturers', 'box', 'click', 'hp', 'in', 'the', 'models', 'box', 'click', '1600', 'cm/ps', 'Click', 'next', 'or', 'finish', 'until', 'the', 'wizard', 'finishes']","{0: [], 2: [], 7: [], 9: [], 17: [], 23: [], 26: [], 32: [], 38: [], 41: [44], 44: [41]}","[[-0.76673001 -0.35962     0.38721001 ...  0.04457587  0.28138214
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.05461794 -0.09143645
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.0717498   0.00561295
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'network', 'and', 'dial-up', 'connection', 'Right-Click', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'Click', 'internet', 'protocol', '(tcp/ip)', 'and', 'then', 'click', 'properties', 'Click', 'advanced', 'and', 'then', 'click', 'the', 'wins', 'tab', 'Click', 'enable', 'netbios', 'over', 'tcp/ip', 'Click', 'ok', 'you', 'can', 'disregard', 'the', 'empty', 'primary', 'wins', 'address', 'notification', 'Click', 'ok', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 7: [], 12: [], 18: [], 20: [], 26: [], 28: [], 32: [], 36: [], 41: [], 52: [], 56: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.04342363  0.3060779
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.07902776  0.00482643
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.15340944  0.05108573
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'network', 'and', 'dial-up', 'connections', 'Click', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'on', 'the', 'file', 'menu', 'click', 'install', 'Click', 'clients', 'click', 'add', 'click', 'client', 'for', 'microsoft', 'networks', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 7: [], 12: [], 18: [], 24: [], 26: [], 28: [], 30: [], 37: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.05202489  0.29802132
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.08270951  0.0202793
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.12110588  0.05570876
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'tools', 'and', 'then', 'choose', 'internet', 'options', 'Click', 'the', 'advanced', 'tab', 'Click', 'to', 'select', 'the', 'show', 'pictures', 'check', 'box', 'Click', 'ok']","{0: [], 4: [], 7: [], 11: [], 13: [], 19: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.0769242   0.15957455
+   2.        ]
+ [-0.68381     0.76694    -0.40511    ...  0.21733932  0.33694312
+   1.        ]
+ [-0.071953    0.23127     0.023731   ...  0.16272846  0.03743523
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['On', 'the', 'tools', 'menu', 'click', 'internet', 'options', 'and', 'then', 'click', 'the', 'advanced', 'tab', 'In', 'the', 'settings', 'box', 'under', 'printing', 'click', 'to', 'select', 'the', 'print', 'background', 'colors', 'and', 'images', 'check', 'box', 'and', 'then', 'click', 'ok']","{4: [], 9: [], 19: [], 21: [], 32: []}","[[-0.21863    -0.42664     0.51959997 ...  0.25342932 -0.06502734
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.36721978  0.36289763
+   1.        ]
+ [-0.68381     0.76694    -0.40511    ...  0.30635452  0.53557515
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'internet', 'options', 'on', 'the', 'tools', 'menu', 'and', 'then', 'click', 'the', 'security', 'tab', 'Click', 'internet', 'in', 'the', 'select', 'a', 'web', 'content', 'zone', 'to', 'specify', 'its', 'security', 'settings', 'section', 'and', 'then', 'click', 'custom', 'level', 'In', 'the', 'run', 'activex', 'scripts', 'and', 'plugins', 'section', 'click', 'disable', 'and', 'then', 'click', 'ok']","{0: [], 9: [], 13: [], 17: [], 23: [], 30: [], 41: [], 45: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.18828481  0.23797356
+   2.        ]
+ [ 0.17614     0.0020898   0.14669999 ...  0.68432546  0.52589947
+   1.        ]
+ [ 0.14804     0.31521001  0.10215    ...  0.13481078  0.11570766
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['On', 'the', 'tools', 'menu', 'in', 'internet', 'explorer', 'click', 'internet', 'options', 'Click', 'the', 'advanced', 'tab', 'Click', 'to', 'clear', 'the', 'do', 'not', 'save', 'encrypted', 'pages', 'to', 'disk', 'check', 'box', 'and', 'then', 'click', 'ok']","{7: [], 10: [], 14: [], 16: [], 29: []}","[[-0.21863    -0.42664     0.51959997 ...  0.33642885 -0.02894027
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.61503369  0.28656596
+   1.        ]
+ [-0.68381     0.76694    -0.40511    ...  0.35139036  0.48250288
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['On', 'the', 'tools', 'menu', 'in', 'internet', 'explorer', 'click', 'internet', 'options', 'On', 'the', 'general', 'tab', 'under', 'temporary', 'internet', 'files', 'click', 'delete', 'files', 'and', 'then', 'click', 'ok', 'on', 'the', 'delete', 'files', 'dialog', 'box', 'Click', 'ok', 'to', 'close', 'the', 'internet', 'options', 'dialog', 'box', 'Click', 'the', 'refresh', 'button', 'at', 'the', 'top', 'of', 'the', 'browser', 'to', 'ensure', 'that', 'you', 'are', 'viewing', 'the', 'latest', 'version', 'of', 'the', 'current', 'page']","{7: [], 18: [], 23: [], 31: [], 34: [], 40: [], 55: []}","[[-0.21863    -0.42664     0.51959997 ...  0.33642885 -0.02894027
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.61503369  0.28656596
+   1.        ]
+ [-0.68381     0.76694    -0.40511    ...  0.35139036  0.48250288
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['In', 'internet', 'explorer', 'click', 'internet', 'options', 'on', 'the', 'tools', 'menu', 'Click', 'the', 'advanced', 'tab', 'Click', 'to', 'select', 'the', 'show', 'internet', 'explorer', 'on', 'desktop', 'check', 'box']","{3: [], 10: [], 14: [], 16: []}","[[ 0.085703   -0.22201     0.16569    ...  0.53295153  0.03994929
+   1.        ]
+ [ 0.17614     0.0020898   0.14669999 ...  0.09773781  0.19064322
+   1.        ]
+ [-0.72951001 -0.16535001  0.85606998 ...  0.21971133  0.03935244
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['In', 'internet', 'explorer', 'click', 'internet', 'options', 'on', 'the', 'tools', 'menu', 'On', 'the', 'general', 'tab', 'click', 'languages', 'Click', 'english', '[united', 'states][en-us]', 'and', 'then', 'click', 'ok', 'Click', 'ok', 'to', 'close', 'the', 'language', 'preference', 'dialog', 'box', 'click', 'ok', 'to', 'close', 'the', 'internet', 'options', 'dialog', 'box']","{3: [], 14: [], 16: [], 22: [], 24: [], 27: [], 33: [], 36: []}","[[ 0.085703   -0.22201     0.16569    ...  0.53295153  0.03994929
+   1.        ]
+ [ 0.17614     0.0020898   0.14669999 ...  0.09773781  0.19064322
+   1.        ]
+ [-0.72951001 -0.16535001  0.85606998 ...  0.21971133  0.03935244
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['In', 'internet', 'explorer', 'click', 'internet', 'options', 'on', 'the', 'tools', 'menu', 'On', 'the', 'privacy', 'tab', 'click', 'advanced', 'Click', 'to', 'select', 'the', 'override', 'automatic', 'cookie', 'handling', 'check', 'box', 'Click', 'prompt', 'for', 'both', 'first-party', 'cookies', 'and', 'third-party', 'cookies', 'Click', 'ok', 'twice']","{3: [], 14: [], 16: [], 18: [], 26: [], 35: []}","[[ 0.085703   -0.22201     0.16569    ...  0.53295153  0.03994929
+   1.        ]
+ [ 0.17614     0.0020898   0.14669999 ...  0.09773781  0.19064322
+   1.        ]
+ [-0.72951001 -0.16535001  0.85606998 ...  0.21971133  0.03935244
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['In', 'control', 'panel', 'double-click', 'display', 'Click', 'none', 'and', 'then', 'click', 'ok']","{3: [], 5: [], 9: []}","[[ 0.085703   -0.22201     0.16569    ...  0.42538416 -0.15051845
+   1.        ]
+ [-0.16487999 -1.02699995  0.58678001 ...  0.00409193  0.09161007
+   1.        ]
+ [-0.26982     0.15716     0.6067     ...  0.1794278   0.73456246
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Open', 'control', 'panel', 'and', 'then', 'click', 'power', 'options', 'Click', 'the', 'power', 'schemes', 'tab', 'Under', 'power', 'schemes', 'click', 'always', 'on']","{0: [], 5: [], 8: [], 16: []}","[[-0.61034     0.60236001  0.61764997 ...  0.25639263  0.20221649
+   2.        ]
+ [-0.16487999 -1.02699995  0.58678001 ...  0.0950809   0.13158245
+   1.        ]
+ [-0.26982     0.15716     0.6067     ...  0.14036362  0.34878242
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Double-Click', 'my', 'computer', 'On', 'the', 'tools', 'menu', 'click', 'folder', 'options', 'Click', 'the', 'offline', 'files', 'tab', 'Click', 'to', 'select', 'the', 'enable', 'offline', 'files', 'check', 'box', 'click', 'apply', 'and', 'then', 'click', 'ok']","{0: [], 7: [], 10: [], 15: [], 17: [], 24: [], 28: []}","[[ 0.          0.          0.         ... -0.0262778  -0.06155529
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.05461434 -0.2096357
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ... -0.11416405  0.19584274
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['On', 'the', 'start', 'menu', 'point', 'to', 'programs', 'point', 'to', 'administrative', 'tools', 'and', 'then', 'click', 'services', 'Click', 'routing', 'and', 'remote', 'access', 'and', 'then', 'click', 'the', 'stop', 'symbol', 'Click', 'remote', 'registry', 'service', 'and', 'then', 'click', 'the', 'start', 'symbol', 'Click', 'routing', 'and', 'remote', 'access', 'and', 'then', 'click', 'the', 'start', 'symbol']","{4: [], 7: [], 13: [], 15: [], 22: [], 26: [], 32: [], 36: [], 43: []}","[[-0.21863    -0.42664     0.51959997 ...  0.35095561  0.02839495
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.34197307  0.23028317
+   1.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.08364476  0.07872708
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'system', 'On', 'the', 'network', 'identification', 'tab', 'click', 'network', 'id', 'In', 'the', 'network', 'identification', 'wizard', 'click', 'next', 'Click', 'this', 'computer', 'is', 'for', 'home', 'use', 'and', 'not', 'part', 'of', 'a', 'business', 'network', 'and', 'click', 'next', 'Click', 'users', 'must', 'enter', 'a', 'user', 'name', 'and', 'password', 'Click', 'next', 'and', 'then', 'click', 'finish']","{0: [], 2: [], 7: [], 10: [], 17: [], 25: [], 27: [], 42: [], 44: [], 53: [], 57: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Double-Click', 'my', 'computer', 'and', 'then', 'double-click', 'dial-up', 'networking', 'Right-Click', 'the', 'appropriate', 'dial-up', 'network', 'and', 'then', 'click', 'properties', 'Click', 'configure', 'and', 'then', 'click', 'to', 'clear', 'the', 'enable', 'modem', 'error', 'control', 'check', 'box', 'Click', 'ok', 'and', 'then', 'click', 'ok']","{0: [], 5: [], 8: [], 15: [], 17: [], 21: [], 23: [], 31: [], 35: []}","[[ 0.          0.          0.         ... -0.17865174  0.07681854
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.18937224 -0.19838911
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ... -0.0463721   0.26307893
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'and', 'then', 'click', 'control', 'panel', 'or', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'administrative', 'tools', 'Double-Click', 'services', 'Double-Click', 'messenger', 'In', 'the', 'startup', 'type', 'list', 'click', 'disabled', 'Click', 'stop', 'and', 'then', 'click', 'ok']","{0: [], 4: [8], 8: [4], 13: [4], 16: [], 19: [], 21: [], 28: [], 30: [], 34: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.02392767  0.43943545
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.03857904 -0.21945575
+   1.        ]
+ [-0.071953    0.23127     0.023731   ... -0.12278707 -0.07582523
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['On', 'the', 'tools', 'menu', 'click', 'folder', 'options', 'On', 'the', 'view', 'tab', 'click', 'to', 'clear', 'the', 'hide', 'protected', 'operating', 'system', 'files', 'check', 'box']","{4: [], 11: [], 13: []}","[[-0.21863    -0.42664     0.51959997 ...  0.34822959 -0.11756159
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.46421623  0.33846027
+   1.        ]
+ [-0.68381     0.76694    -0.40511    ...  0.28403822  0.48907474
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Double-Click', 'my', 'computer', 'on', 'the', 'desktop', 'On', 'the', 'tools', 'menu', 'click', 'folder', 'options', 'On', 'the', 'offline', 'files', 'tab', 'click', 'view', 'files', 'On', 'the', 'tools', 'menu', 'click', 'synchronize', 'Click', 'synchronize', 'when', 'you', 'are', 'prompted', 'to', 'synchronize']","{0: [], 10: [], 18: [], 25: [], 27: []}","[[ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  1.00495398e-01
+   1.21630728e-04  2.00000000e+00]
+ [ 8.02730024e-02 -1.08609997e-01  7.20669985e-01 ...  1.34093642e-01
+  -1.54374778e-01  1.00000000e+00]
+ [-1.62980005e-01  3.01409990e-01  5.79779983e-01 ...  6.30446076e-02
+   2.54319370e-01  1.00000000e+00]
+ ...
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]]"
+"['Click', 'start', 'point', 'to', 'programs', 'point', 'to', 'administrative', 'tools', 'and', 'then', 'click', 'services', 'Right-Click', 'the', 'print', 'spooler', 'service', 'and', 'then', 'click', 'start']","{0: [], 2: [], 5: [], 11: [], 13: [], 20: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.12938169  0.46307418
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.42848432 -0.07534203
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ... -0.13734148 -0.03914687
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'and', 'then', 'double-click', 'administrative', 'tools', 'Double-Click', 'component', 'services', 'click', 'to', 'select', 'services', '(local)', 'right-click', 'print', 'spooler', 'and', 'then', 'click', 'properties', 'Click', 'start', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 5: [], 10: [], 13: [], 16: [], 18: [], 21: [], 26: [], 28: [], 32: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.00824666  0.56746173
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.02381317 -0.01786127
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.26642367  0.06855255
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Start', 'the', 'magnifier', 'tool', 'Click', 'to', 'check', 'the', 'follow', 'mouse', 'cursor', 'check', 'box', 'and', 'then', 'minimize', 'the', 'magnifier', 'tool']","{0: [], 4: [], 6: [], 15: []}","[[ 0.23336001  0.16042     0.050714   ...  0.26573607  0.07220154
+   2.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.6381579   0.24726737
+   1.        ]
+ [ 0.090438    0.24879999 -0.035029   ...  0.48428112  0.40899795
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'network', 'and', 'dial-up', 'connections', 'Click', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'on', 'the', 'file', 'menu', 'Click', 'install', 'click', 'service', 'and', 'then', 'click', 'add', 'Click', 'file', 'and', 'printer', 'sharing', 'for', 'microsoft', 'networks', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 7: [], 10: [], 15: [], 21: [], 27: [], 29: [], 33: [], 35: [], 45: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'sounds', 'and', 'multimedia', 'On', 'the', 'audio', 'tab', 'click', 'advanced', 'under', 'sound', 'playback', 'In', 'the', 'speaker', 'setup', 'box', 'click', 'the', 'surround', 'sound', 'speakers', 'you', 'want', 'to', 'use', 'and', 'then', 'click', 'ok', 'Click', 'ok', 'and', 'then', 'close', 'control', 'panel']","{0: [], 2: [], 7: [], 10: [], 18: [], 28: [], 39: [], 41: [], 45: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'administrative', 'tools', 'then', 'double-click', 'event', 'viewer', 'Click', 'to', 'expand', 'event', 'viewer', 'if', 'it', 'is', 'not', 'already', 'expanded', 'Click', 'application']","{0: [], 2: [], 7: [], 10: [], 14: [], 17: [], 19: [], 28: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'computer', 'and', 'then', 'click', 'manage', 'Double-Click', 'system', 'tools', 'in', 'the', 'right', 'pane', 'and', 'then', 'double-click', 'device', 'manager', 'Double-Click', 'ide', 'ata/atapi', 'controller', 'in', 'the', 'right', 'pane', 'and', 'then', 'double-click', 'the', 'secondary', 'ide', 'channel', 'On', 'the', 'advanced', 'settings', 'tab', 'click', 'pio', 'only', 'in', 'the', 'transfer', 'mode', 'box', 'Click', 'ok', 'close', 'the', 'computer', 'management', 'window', 'and', 'then', 'reboot', 'the', 'computer']","{0: [], 5: [], 7: [], 16: [], 19: [], 29: [], 39: [], 47: [], 49: [], 56: []}","[[ 0.          0.          0.         ... -0.00468132  0.0256799
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.15590973 -0.18977147
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ... -0.06251919  0.19023618
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'programs', 'point', 'to', 'accessories', 'point', 'to', 'system', 'tools', 'and', 'then', 'click', 'disk', 'defragmenter', 'Click', 'the', 'disk', 'that', 'you', 'want', 'to', 'defragment', 'and', 'then', 'click', 'defragment', 'on', 'the', 'action', 'menu']","{0: [], 2: [], 5: [], 8: [], 14: [], 17: [], 27: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.12673858  0.46148133
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.49581024  0.00418811
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ... -0.13754818  0.0386629
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'and', 'then', 'double-click', 'system', 'Click', 'the', 'hardware', 'tab', 'and', 'then', 'click', 'device', 'manager', 'Right-Click', 'modems', 'and', 'then', 'click', 'scan', 'for', 'hardware', 'changes']","{0: [], 2: [], 5: [], 10: [], 12: [], 18: [], 21: [], 25: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.00579517  0.55477446
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.03247853 -0.00944616
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.26467708  0.05432825
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['On', 'the', 'desktop', 'right-click', 'my', 'network', 'places', 'and', 'then', 'click', 'properties', 'Right-Click', 'the', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'Click', 'internet', 'protocol', '(tcp/ip)', 'and', 'click', 'properties', 'Click', 'advanced', 'and', 'then', 'click', 'wins', 'If', 'you', 'are', 'using', 'a', 'static', 'internet', 'protocol', '(ip)', 'address', 'click', 'enable', 'netbios', 'over', 'tcp/ip', 'Click', 'ok', 'in', 'the', 'open', 'dialog', 'boxes', 'to', 'close', 'them', 'and', 'to', 'save', 'the', 'new', 'settings']","{3: [], 9: [], 11: [], 18: [], 20: [], 25: [], 27: [], 31: [], 36: [], 43: [], 48: [], 56: [], 60: []}","[[-0.21863    -0.42664     0.51959997 ...  0.41416863 -0.40591609
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.43911076  0.07916865
+   1.        ]
+ [-0.64516002  0.54505002  0.41859999 ...  0.13543096  0.29807851
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'network', 'places', 'on', 'the', 'desktop', 'and', 'then', 'click', 'properties', 'Right-Click', 'the', 'icon', 'for', 'the', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'On', 'the', 'networking', 'tab', 'click', 'the', 'internet', 'protocol', '(tcp/ip)', 'entry', 'under', 'components', 'checked', 'are', 'used', 'by', 'this', 'connection', 'and', 'then', 'click', 'properties', 'Click', 'advanced', 'Click', 'the', 'dns', 'tab', 'Click', 'to', 'clear', 'the', 'register', 'this', ""connection's"", 'address', 'in', 'dns', 'check', 'box', 'Click', 'ok']","{0: [], 9: [], 11: [], 21: [], 27: [], 43: [], 45: [], 47: [], 51: [], 53: [], 63: []}","[[ 0.          0.          0.         ...  0.16566135  0.11197883
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.50157815  0.12978384
+   1.        ]
+ [ 0.22336    -0.18421    -0.071397   ...  0.04849213 -0.00427251
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['On', 'the', 'desktop', 'right-click', 'my', 'network', 'places', 'and', 'then', 'click', 'properties', 'Right-Click', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'In', 'the', 'components', 'checked', 'are', 'used', 'by', 'this', 'connection', 'list', 'double-click', 'internet', 'protocol', '(tcp/ip)', 'click', 'advanced', 'and', 'then', 'click', 'the', 'wins', 'tab', 'Click', 'use', 'netbios', 'setting', 'from', 'the', 'dhcp', 'server', 'and', 'then', 'click', 'ok', 'three', 'times']","{3: [], 9: [], 11: [], 17: [], 29: [], 33: [], 37: [], 41: [], 51: []}","[[-0.21863    -0.42664     0.51959997 ...  0.41416863 -0.40591609
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.43911076  0.07916865
+   1.        ]
+ [-0.64516002  0.54505002  0.41859999 ...  0.13543096  0.29807851
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'computer', 'and', 'then', 'click', 'manage', 'Under', 'system', 'tools', 'double-click', 'local', 'users', 'and', 'groups', 'to', 'expand', 'it', 'and', 'then', 'click', 'users', 'In', 'the', 'right', 'pane', 'right-click', 'the', 'guest', 'account', 'and', 'then', 'click', 'properties', 'Click', 'to', 'clear', 'the', 'account', 'is', 'disabled', 'check', 'box', 'and', 'make', 'sure', 'the', 'password', 'is', 'set', 'to', 'null', '(blank)', 'click', 'ok']","{0: [], 5: [], 10: [], 20: [], 26: [], 32: [], 34: [], 36: [], 53: []}","[[ 0.          0.          0.         ... -0.00468132  0.0256799
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.15590973 -0.18977147
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ... -0.06251919  0.19023618
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'taskbar', '&', 'start', 'menu', 'Click', 'to', 'set', 'the', 'show', 'clock', 'check', 'box', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 7: [], 12: [], 14: [], 22: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.06958994  0.28508788
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.01977095  0.01886607
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.34400445  0.10620728
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'search', 'and', 'then', 'click', 'files', 'or', 'folders', 'In', 'the', 'files', 'or', 'folders', 'named', 'box', 'type', 'riched20.dll', 'and', 'then', 'click', 'search', 'now', 'In', 'the', 'search', 'results', 'list', 'right-click', 'riched20.dll']","{0: [], 2: [], 7: [], 18: [], 22: [], 30: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.10725334  0.20289996
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.09250033 -0.00271011
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.25908175  0.19989677
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'system', 'Click', 'the', 'advanced', 'tab', 'and', 'then', 'click', 'settings', 'under', 'startup', 'and', 'recovery', 'In', 'the', 'write', 'debugging', 'information', 'list', 'click', 'small', 'memory', 'dump', '(64k)']","{0: [], 2: [], 7: [], 10: [], 12: [], 18: [], 30: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'programs', 'point', 'to', 'administrative', 'tools', 'and', 'performance', 'and', 'then', 'click', 'performance', 'logs', 'and', 'alerts']","{0: [], 2: [], 5: [], 13: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.13510895  0.47824478
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.4150126   0.04800098
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ... -0.11415313 -0.08499891
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'computer', 'and', 'then', 'click', 'manage', 'Open', 'services', 'and', 'applications', 'Click', 'services', 'Right-Click', 'performance', 'logs', 'and', 'alerts', 'then', 'click', 'properties', 'Click', 'the', 'log', 'on', 'tab', 'and', 'then', 'click', 'this', 'account']","{0: [], 5: [], 7: [], 11: [], 13: [], 19: [], 21: [], 28: []}","[[ 0.          0.          0.         ... -0.00468132  0.0256799
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.15590973 -0.18977147
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ... -0.06251919  0.19023618
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Click', 'administrative', 'tools', 'Double-Click', 'services', 'Right-Click', 'fax', 'service', 'and', 'then', 'click', 'properties', 'Click', 'the', 'log', 'on', 'tab', 'Click', 'this', 'account']","{0: [], 2: [], 7: [], 10: [], 13: [], 15: [], 20: [], 22: [], 27: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'computer', 'on', 'the', 'desktop', 'and', 'then', 'click', 'properties', 'On', 'the', 'advanced', 'tab', 'click', 'startup', 'and', 'recovery', 'Change', 'the', 'value', 'in', 'the', 'system', 'startup', 'to', '10', 'seconds', 'Click', 'ok', 'and', 'then', 'click', 'ok']","{0: [], 8: [], 14: [], 18: [], 28: [], 32: []}","[[ 0.          0.          0.         ...  0.02058177  0.02781001
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.23512751 -0.14926128
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ...  0.10139679  0.27302301
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'right-click', 'my', 'computer', 'and', 'then', 'click', 'manage', 'In', 'the', 'console', 'pane', 'click', 'device', 'manager', 'On', 'the', 'view', 'menu', 'click', 'show', 'hidden', 'devices', 'In', 'the', 'details', 'pane', 'expand', 'network', 'adapters', 'Right-Click', 'direct', 'parallel', 'and', 'then', 'click', 'disable']","{0: [], 2: [], 7: [], 13: [], 20: [], 28: [], 31: [], 36: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.03313584  0.28144845
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.05067755 -0.17330618
+   1.        ]
+ [ 0.          0.          0.         ...  0.11725455 -0.08399583
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'power', 'options', 'Click', 'the', 'power', 'schemes', 'tab']","{0: [], 2: [], 7: [], 10: [], 13: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'phone', 'and', 'modem', 'options', 'Click', 'the', 'modems', 'tab', 'Click', 'your', 'modem', 'and', 'then', 'click', 'properties', 'Click', 'the', 'diagnostics', 'tab', 'Click', 'query', 'modem']","{0: [], 2: [], 7: [], 10: [], 15: [], 19: [], 24: [], 26: [], 30: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'and', 'then', 'double-click', 'system', 'Click', 'the', 'hardware', 'tab', 'and', 'then', 'click', 'device', 'manager', 'Double-Click', 'the', 'modems', 'branch', 'to', 'expand', 'it', 'right-click', '56000', 'bps', 'v90', 'modem', 'click', 'properties', 'and', 'then', 'click', 'the', 'modem', 'tab', 'Change', 'the', 'maximum', 'port', 'speed', 'to', '115200', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 5: [], 10: [], 12: [], 18: [], 21: [], 26: [], 28: [], 33: [], 37: [], 41: [], 50: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.00579517  0.55477446
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.03247853 -0.00944616
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.26467708  0.05432825
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'and', 'then', 'click', 'run', 'In', 'the', 'open', 'box', 'type', 'regsvr32', '/u', 'inseng.dll', 'and', 'then', 'click', 'ok', 'When', 'you', 'receive', 'the', 'message', 'that', 'states', 'that', 'dllunregisterserver', 'in', 'inseng.dll', 'succeeded', 'click', 'ok', 'Click', 'start', 'and', 'then', 'click', 'run', 'In', 'the', 'open', 'box', 'type', 'regsvr32', 'inseng.dll', 'and', 'then', 'click', 'ok', 'When', 'you', 'receive', 'the', 'message', 'that', 'states', 'that', 'dllregisterserver', 'in', 'inseng.dll', 'succeeded', 'click', 'ok']","{0: [], 4: [], 10: [], 16: [], 20: [], 30: [], 32: [], 36: [], 42: [], 47: [], 51: [], 61: []}","[[-7.66730011e-01 -3.59620005e-01  3.87210011e-01 ... -8.62208977e-02
+   3.47338617e-01  2.00000000e+00]
+ [ 2.33360007e-01  1.60420001e-01  5.07140011e-02 ... -1.57166332e-01
+  -4.15991485e-01  1.00000000e+00]
+ [-7.19529986e-02  2.31270000e-01  2.37310007e-02 ...  1.93878978e-01
+   1.84503850e-03  1.00000000e+00]
+ ...
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]]"
+"['Click', 'start', 'point', 'to', 'settings', 'point', 'to', 'control', 'panel', 'and', 'then', 'click', 'display', 'Click', 'the', 'settings', 'tab', 'Click', 'the', 'advanced', 'button', 'Click', 'the', 'adapter', 'tab', 'When', 'you', 'click', 'the', 'list', 'all', 'modes', 'button', 'a', 'list', 'of', 'what', 'functionality', 'is', 'inlcuded', 'with', 'this', 'video', 'card', 'is', 'displayed']","{0: [], 2: [], 5: [], 11: [], 13: [], 17: [], 21: [], 27: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.00462379  0.43264773
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.15165846  0.06740317
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.05975144  0.0848598
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'double-click', 'administrative', 'tools', 'and', 'then', 'double-click', 'computer', 'management', 'If', 'it', 'is', 'not', 'already', 'expanded', 'expand', 'the', 'storage', 'branch', 'and', 'then', 'click', 'the', 'disk', 'management', 'folder', 'to', 'open', 'it', 'On', 'the', 'action', 'menu', 'click', 'restore', 'basic', 'disk', 'configuration']","{0: [], 2: [], 5: [], 8: [], 13: [], 22: [], 28: [], 34: [], 40: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03781742  0.62624562
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.13418718 -0.0291351
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.31875286  0.11609583
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'network', 'places', 'and', 'then', 'click', 'properties', 'In', 'the', 'network', 'and', 'dial-up', 'connections', 'window', 'on', 'the', 'advanced', 'menu', 'click', 'optional', 'networking', 'components', 'In', 'the', 'windows', 'optional', 'networking', 'components', 'wizard', 'click', 'to', 'select', 'the', 'networking', 'services', 'check', 'box', 'and', 'then', 'click', 'details', 'In', 'the', 'networking', 'services', 'dialog', 'box', 'click', 'to', 'select', 'the', 'rip', 'listener', 'check', 'box', 'click', 'ok', 'and', 'then', 'click', 'next', 'Insert', 'the', 'operating', 'system', 'installation', 'disc', 'when', 'you', 'are', 'prompted', 'click', 'ok', 'and', 'dns', 'is', 'reinstalled']","{0: [], 6: [], 19: [], 30: [], 32: [], 40: [], 48: [], 50: [], 56: [], 60: [], 62: [], 72: []}","[[ 0.          0.          0.         ...  0.09262022  0.11115278
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.49870336  0.18743245
+   1.        ]
+ [ 0.22336    -0.18421    -0.071397   ... -0.0392958   0.07156568
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'network', 'places', 'and', 'then', 'click', 'properties', 'Right-Click', 'the', 'network', 'adapter', 'that', 'is', 'connected', 'to', 'the', 'network', 'that', 'the', 'computers', 'running', 'windows', '95/windows', '98', 'are', 'using', 'usually', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'Click', 'internet', 'protocol', '(tcp/ip)', 'and', 'then', 'click', 'properties', 'Click', 'the', 'advanced', 'button', 'On', 'the', 'wins', 'tab', 'click', 'enable', 'netbios', 'over', 'tcp/ip', 'and', 'then', 'click', 'ok', 'Click', 'ok', 'and', 'then', 'click', 'ok']","{0: [], 6: [], 8: [], 33: [], 35: [], 41: [], 43: [], 51: [], 58: [], 60: [], 64: []}","[[ 0.          0.          0.         ...  0.09262022  0.11115278
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.49870336  0.18743245
+   1.        ]
+ [ 0.22336    -0.18421    -0.071397   ... -0.0392958   0.07156568
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'on', 'the', 'taskbar', 'and', 'then', 'click', 'run', 'Type', 'the', 'following', 'in', 'the', 'open', 'box', 'tlntsvr', '/service', 'Start', 'the', 'telnet', 'server', 'service', 'by', 'clicking', 'ok']","{0: [], 7: [], 9: [], 18: [], 24: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.04981259  0.3331413
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.0435275  -0.35161179
+   1.        ]
+ [-0.21863    -0.42664     0.51959997 ...  0.59220254  0.23509587
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'search', 'and', 'then', 'click', 'for', 'files', 'and', 'folders', 'In', 'the', 'search', 'for', 'files', 'and', 'folders', 'named', 'box', 'type', 'msn.cms', 'Click', 'search', 'now']","{0: [], 2: [], 7: [], 21: [], 23: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.0995744   0.20838866
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.15247507  0.01270804
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.29054123  0.17491177
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'network', 'places', 'and', 'then', 'click', 'properties', 'Right-Click', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'Click', 'to', 'select', 'the', 'file', 'and', 'printer', 'sharing', 'for', 'microsoft', 'networks', 'check', 'box', 'Click', 'ok']","{0: [], 6: [], 8: [], 14: [], 16: [], 18: [], 29: []}","[[ 0.          0.          0.         ...  0.09262022  0.11115278
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.49870336  0.18743245
+   1.        ]
+ [ 0.22336    -0.18421    -0.071397   ... -0.0392958   0.07156568
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'programs', 'point', 'to', 'administrative', 'tools', 'and', 'then', 'click', 'computer', 'management', 'Click', 'device', 'manager', 'Expand', 'the', 'modem', 'branch', 'right-click', 'your', 'modem', 'and', 'then', 'click', 'properties', 'Click', 'the', 'advanced', 'tab', 'Click', 'change', 'default', 'preferences', 'Configure', 'the', 'modem', 'settings', 'that', 'you', 'want', 'to', 'use', 'click', 'ok', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 5: [], 11: [], 14: [], 17: [], 21: [], 26: [], 28: [], 32: [], 36: [], 45: [], 49: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.16884626  0.50861466
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.39330876 -0.01207095
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ... -0.13361821  0.01484174
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'display', 'On', 'the', 'appearance', 'tab', 'click', 'scrollbar', 'in', 'the', 'item', 'box', 'In', 'the', 'size', 'box', 'next', 'to', 'item', 'decrease', 'the', 'size', 'to', 'a', 'smaller', 'value', 'for', 'example', 'if', 'it', 'is', 'set', 'to', '16', 'the', 'default', 'change', 'it', 'to', '10', 'Click', 'ok']","{0: [], 2: [], 7: [], 10: [], 16: [], 29: [], 46: [], 50: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'and', 'then', 'click', 'run', 'In', 'the', 'open', 'box', 'type', 'mmc', 'and', 'then', 'click', 'ok', 'On', 'the', 'console', 'menu', 'click', 'add/remove', 'snap-in', 'and', 'then', 'click', 'add', 'In', 'the', 'available', 'standalone', 'snap-ins', 'list', 'click', 'security', 'configuration', 'and', 'analysis', 'click', 'add', 'and', 'then', 'click', 'close', 'Click', 'ok', 'In', 'the', 'console', 'tree', 'right-click', 'security', 'configuration', 'and', 'analysis', 'and', 'then', 'click', 'open', 'database']","{0: [], 4: [], 10: [], 14: [], 20: [], 25: [], 33: [], 38: [], 42: [], 44: [], 50: [], 57: []}","[[-7.66730011e-01 -3.59620005e-01  3.87210011e-01 ... -8.62208977e-02
+   3.47338617e-01  2.00000000e+00]
+ [ 2.33360007e-01  1.60420001e-01  5.07140011e-02 ... -1.57166332e-01
+  -4.15991485e-01  1.00000000e+00]
+ [-7.19529986e-02  2.31270000e-01  2.37310007e-02 ...  1.93878978e-01
+   1.84503850e-03  1.00000000e+00]
+ ...
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]]"
+"['Click', 'start', 'click', 'run', 'type', 'regedit', 'in', 'the', 'open', 'box', 'and', 'then', 'click', 'ok', 'In', 'registry', 'editor', 'locate', 'and', 'then', 'click', 'the', 'following', 'subkey', 'hkey_local_machine', '\\', 'system', '\\', 'currentcontrolset', '\\', 'services', '\\', 'tcpip', '\\', 'parameters', 'In', 'the', 'right', 'pane', 'right-click', 'enableicmpredirect', 'or', 'enableicmpredirects', 'and', 'then', 'click', 'modify', 'In', 'the', 'edit', 'dword', 'value', 'dialog', 'box', 'type', '1', 'in', 'the', 'value', 'data', 'box', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 4: [], 12: [], 17: [], 20: [], 39: [], 45: [], 54: [], 63: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.00816994  0.48844326
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.12799238 -0.09303712
+   1.        ]
+ [-0.76673001 -0.35962     0.38721001 ...  0.19123825  0.12289573
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['On', 'the', 'start', 'menu', 'click', 'programs', 'point', 'to', 'accessories', 'point', 'to', 'communications', 'and', 'then', 'click', 'network', 'and', 'dial-up', 'connections', 'Right-Click', 'the', 'dial-up', 'icon', 'and', 'then', 'click', 'properties', 'In', 'the', 'network', 'connection', 'dialog', 'box', 'click', 'the', 'security', 'tab', 'In', 'security', 'options', 'click', 'advanced', '(custom', 'settings)', 'and', 'then', 'click', 'settings', 'In', 'the', 'advanced', 'security', 'settings', 'dialog', 'box', 'in', 'logon', 'security', 'click', 'properties', 'under', 'use', 'extensible', 'authentication', 'protocol', '(eap)', 'In', 'the', 'smart', 'card', 'or', 'other', 'certificate', 'properties', 'dialog', 'box', 'click', 'to', 'clear', 'the', 'validate', 'server', 'certificate', 'check', 'box', 'and', 'then', 'click', 'ok']","{4: [], 6: [], 9: [], 14: [], 19: [], 25: [], 33: [], 40: [], 46: [], 58: [], 76: [], 78: [], 87: []}","[[-0.21863    -0.42664     0.51959997 ...  0.24589026 -0.11483292
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.28008205  0.22161369
+   1.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.08021135  0.04202873
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Double-Click', 'my', 'computer', 'Double-Click', 'the', 'local', 'disk', '(c:)', 'drive', 'Right-Click', 'the', 'autoexec', 'file', 'and', 'then', 'click', 'properties', 'Click', 'the', 'security', 'tab', 'Click', 'to', 'clear', 'the', 'allow', 'inheritable', 'permissions', 'from', 'parent', 'to', 'propagate', 'to', 'this', 'object', 'check', 'box', 'In', 'the', 'security', 'dialog', 'box', 'that', 'appears', 'click', 'remove', 'Click', 'add', 'In', 'the', 'look', 'in', 'box', 'click', 'the', 'name', 'of', 'the', 'current', 'computer', 'In', 'the', 'name', 'box', 'click', 'system', 'and', 'then', 'click', 'add', 'Click', 'ok', 'Click', 'ok']","{0: [], 3: [], 9: [], 15: [], 17: [], 21: [], 23: [], 44: [], 46: [], 53: [], 64: [], 68: [], 70: [], 72: []}","[[ 0.          0.          0.         ... -0.0262778  -0.06155529
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.05461434 -0.2096357
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ... -0.11416405  0.19584274
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['From', 'the', 'start', 'menu', 'point', 'to', 'programs', 'point', 'to', 'accessories', 'and', 'then', 'click', 'windows', 'explorer', 'From', 'the', 'tools', 'menu', 'click', 'folder', 'options', 'and', 'go', 'to', 'the', 'view', 'tab', 'In', 'the', 'advanced', 'settings', 'area', 'under', 'the', 'hidden', 'files', 'and', 'folders', 'select', 'show', 'hidden', 'files', 'and', 'folders', 'and', 'then', 'click', 'ok', 'In', 'the', 'left', 'pane', 'of', 'windows', 'explorer', 'expand', 'my', 'computer', 'Click', 'local', 'drive', '(c:)', 'In', 'the', 'right', 'pane', 'find', 'and', 'select', 'autoexec', 'right-click', 'this', 'file', 'Click', 'properties', 'from', 'the', 'pop-up', 'menu', 'On', 'the', 'general', 'tab', 'clear', 'the', 'hidden', 'attribute', 'and', 'then', 'click', 'ok']","{4: [], 7: [], 12: [], 19: [], 23: [], 39: [], 47: [], 56: [], 59: [], 67: [], 69: [], 71: [], 74: [], 84: [], 90: []}","[[ 0.30730999  0.24737     0.68230999 ...  0.25380793  0.35329166
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.13950907  0.48900324
+   1.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.21775988  0.09887002
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'programs', 'Click', 'administrative', 'tools', 'and', 'then', 'click', 'computer', 'management', 'Click', 'system', 'tools', 'and', 'then', 'click', 'device', 'manager', 'Expand', 'ide', 'ata/atapi', 'controllers', 'Double-Click', 'the', 'secondary', 'ide', 'channel', 'for', 'which', 'you', 'want', 'to', 'configure', 'dma/pio', 'settings', 'Click', 'the', 'advanced', 'settings', 'tab', 'In', 'the', 'transfer', 'mode', 'box', 'click', 'either', 'pio', 'only', 'or', 'dma', 'if', 'available']","{0: [], 2: [], 5: [], 10: [], 13: [], 18: [], 21: [], 25: [], 35: [], 38: [], 48: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.04827734  0.50836569
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.06252278  0.0550325
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.12803894  0.06828174
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'click', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'phone', 'and', 'modem', 'options', 'Click', 'the', 'modems', 'tab', 'In', 'the', 'the', 'following', 'modems', 'are', 'installed', 'list', 'click', 'the', 'modem', 'that', 'you', 'want', 'to', 'remove', 'and', 'then', 'click', 'remove', 'Click', 'yes', 'in', 'response', 'to', 'the', 'are', 'you', 'sure', 'you', 'want', 'to', 'remove', 'the', 'selected', 'modem(s)', 'from', 'your', 'system', 'message']","{0: [], 2: [], 6: [], 9: [], 14: [], 26: [], 36: [], 38: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.00999166  0.38742051
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.16473258 -0.14865968
+   1.        ]
+ [-0.76673001 -0.35962     0.38721001 ...  0.29727918  0.36158639
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'click', 'control', 'panel', 'Double-Click', 'the', 'administrative', 'tools', 'icon', 'Double-Click', 'the', 'computer', 'management', 'icon', 'Expand', 'services', 'and', 'applications', 'Click', 'on', 'services', 'Double-Click', 'the', 'indexing', 'service', 'you', 'wish', 'to', 'enable', 'and', 'set', 'its', 'startup', 'to', 'automatic', 'or', 'manual']","{0: [], 2: [], 6: [], 9: [], 14: [], 19: [], 23: [], 26: [], 35: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.01684852  0.2924813
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.0578002  -0.07256406
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.18042269  0.0508411
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'system', 'and', 'then', 'click', 'user', 'profiles', 'Click', 'administrator', 'and', 'then', 'click', 'copy', 'to', 'In', 'the', 'copy', 'profile', 'to', 'box', 'type', 'the', 'following', 'line', '%systemroot%\\profiles\\default', 'user', 'Click', 'change', 'In', 'the', 'look', 'in', 'box', 'click', 'the', 'name', 'of', 'the', 'current', 'computer', 'Click', 'everyone', 'click', 'add', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 7: [], 10: [], 14: [], 17: [], 21: [], 30: [], 36: [], 43: [], 50: [], 52: [], 56: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'administrative', 'tools', 'Double-Click', 'computer', 'management', 'Double-Click', 'the', 'services', 'and', 'applications', 'branch', 'to', 'expand', 'it', 'and', 'then', 'click', 'services', 'Click', 'performance', 'logs', 'and', 'alerts', 'click', 'action', 'and', 'then', 'click', 'start']","{0: [], 2: [], 7: [], 10: [], 13: [], 16: [], 23: [], 27: [], 29: [], 34: [], 38: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'administrative', 'tools', 'and', 'then', 'click', 'services', 'Right-Click', 'netmeeting', 'remote', 'desktop', 'sharing', 'and', 'then', 'click', 'properties', 'In', 'the', 'startup', 'type', 'box', 'click', 'disabled', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 7: [], 10: [], 15: [], 17: [], 24: [], 31: [], 35: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'Point', 'to', 'programs', 'click', 'administration', 'tools', 'and', 'then', 'click', 'computer', 'management', 'In', 'computer', 'management', 'click', 'the', 'disk', 'management', 'folder', 'under', 'storage', 'option', 'you', 'may', 'need', 'to', 'click', 'the', 'plus', 'sign', '(+)', 'beside', 'storage', 'option', 'to', 'display', 'all', 'of', 'the', 'storage', 'options', 'Click', 'the', 'drive', 'c:', 'that', 'you', 'want', 'to', 'clean', 'up', 'Right-Click', 'the', 'drive', 'c:', 'and', 'then', 'click', 'properties', 'in', 'the', 'properties', 'dialog', 'box', 'click', 'disk', 'cleanup']","{0: [], 2: [], 5: [], 10: [], 16: [], 28: [], 37: [], 43: [], 53: [], 59: [], 66: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.07729796  0.48523673
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.17800969  0.13541676
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.2446105  -0.1355457
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'and', 'then', 'click', 'run', 'In', 'the', 'open', 'box', 'type', 'regedit', 'and', 'then', 'click', 'ok', 'Locate', 'and', 'click', 'the', 'following', 'registry', 'key', 'hkey_current_user', '\\', 'control', 'panel', '\\', 'desktop', 'In', 'the', 'right', 'pane', 'double-click', 'paintdesktopversion', 'Type', '1', 'in', 'the', 'value', 'data', 'box', 'and', 'then', 'click', 'ok', 'Click', 'exit', 'on', 'the', 'registry', 'menu']","{0: [], 4: [], 10: [], 14: [], 16: [], 18: [], 33: [], 35: [], 44: [], 46: []}","[[-7.66730011e-01 -3.59620005e-01  3.87210011e-01 ... -8.62208977e-02
+   3.47338617e-01  2.00000000e+00]
+ [ 2.33360007e-01  1.60420001e-01  5.07140011e-02 ... -1.57166332e-01
+  -4.15991485e-01  1.00000000e+00]
+ [-7.19529986e-02  2.31270000e-01  2.37310007e-02 ...  1.93878978e-01
+   1.84503850e-03  1.00000000e+00]
+ ...
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]]"
+"['In', 'the', 'printers', 'folder', 'click', 'server', 'properties', 'on', 'the', 'file', 'menu', 'Click', 'the', 'ports', 'tab', 'click', 'the', 'com2', 'port', 'you', 'want', 'to', 'remove', 'click', 'delete', 'port', 'and', 'then', 'click', 'yes']","{4: [], 11: [], 15: [], 23: [], 28: []}","[[ 0.085703   -0.22201     0.16569    ...  0.53558064 -0.40741765
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.48523939 -0.07849337
+   1.        ]
+ [-0.32999    -0.17665    -0.55931002 ...  0.22574505 -0.06064741
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'and', 'then', 'click', 'run', 'In', 'the', 'open', 'box', 'type', 'dcomcnfg', 'and', 'then', 'click', 'ok', 'In', 'the', 'distributed', 'com', 'configuration', 'properties', 'dialog', 'box', 'click', 'the', 'default', 'properties', 'tab', 'Click', 'to', 'select', 'the', 'enable', 'distributed', 'com', 'on', 'this', 'computer', 'check', 'box', 'Under', 'default', 'authentication', 'level', 'click', 'connect', 'Under', 'default', 'impersonation', 'level', 'click', 'identify', 'Click', 'the', 'applications', 'tab', 'click', '{000c101c-0000-0000-c000-000000000046}', 'and', 'then', 'click', 'properties', 'Click', 'the', 'general', 'tab', 'and', 'then', 'click', 'default', 'in', 'the', 'authentication', 'level', 'box', 'Click', 'the', 'security', 'tab', 'and', 'then', 'click', 'use', 'default', 'access', 'permissions', 'use', 'default', 'launch', 'permissions', 'and', 'use', 'default', 'configuration', 'permissions', 'Click', 'apply', 'and', 'then', 'click', 'ok']","{0: [], 4: [], 10: [], 14: [], 24: [], 29: [], 31: [], 45: [], 51: [], 53: [], 57: [], 61: [], 63: [], 69: [], 76: [], 82: [], 96: [], 100: []}","[[-7.66730011e-01 -3.59620005e-01  3.87210011e-01 ... -8.62208977e-02
+   3.47338617e-01  2.00000000e+00]
+ [ 2.33360007e-01  1.60420001e-01  5.07140011e-02 ... -1.57166332e-01
+  -4.15991485e-01  1.00000000e+00]
+ [-7.19529986e-02  2.31270000e-01  2.37310007e-02 ...  1.93878978e-01
+   1.84503850e-03  1.00000000e+00]
+ ...
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'network', 'and', 'dial-up', 'connections', 'Right-Click', 'the', 'icon', 'for', 'your', 'isp', 'and', 'then', 'click', 'properties', 'Click', 'the', 'networking', 'tab', 'click', 'internet', 'protocol', '(tcp/ip)', 'and', 'then', 'click', 'properties', 'Click', 'advanced', 'and', 'then', 'click', 'the', 'options', 'tab', 'Click', 'ip', 'security', 'and', 'then', 'click', 'properties', 'In', 'the', 'use', 'this', 'ip', 'security', 'policy', 'box', 'click', 'client', '(respond', 'only)', 'or', 'do', 'not', 'use', 'ipsec', 'Click', 'ok', 'or', 'close', 'until', 'all', 'dialog', 'boxes', 'are', 'closed']","{0: [], 2: [], 7: [], 12: [], 20: [], 22: [], 26: [], 32: [], 34: [], 38: [], 42: [], 47: [], 57: [], 66: [69], 69: [66]}","[[-0.76673001 -0.35962     0.38721001 ... -0.05202489  0.29802132
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.08270951  0.0202793
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.12110588  0.05570876
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'network', 'and', 'dial-up', 'connections', 'Right-Click', 'the', 'connection', 'you', 'want', 'to', 'use', 'to', 'connect', 'to', 'the', 'isp', 'and', 'then', 'click', 'properties', 'Click', 'the', 'networking', 'tab', 'Click', 'settings', 'Click', 'to', 'clear', 'the', 'negotiate', 'multi-link', 'for', 'single', 'link', 'connections', 'check', 'box', 'Click', 'ok', 'Click', 'ok']","{0: [], 2: [], 7: [], 10: [], 12: [], 20: [], 26: [], 28: [], 32: [], 34: [], 36: [], 46: [], 48: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.05202489  0.29802132
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.08270951  0.0202793
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.12110588  0.05570876
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'programs', 'point', 'to', 'administrative', 'tools', 'and', 'then', 'click', 'computer', 'management', 'Double-Click', 'local', 'users', 'and', 'groups', 'Click', 'users', 'and', 'then', 'double-click', 'the', 'user', 'you', 'want', 'to', 'add', 'to', 'the', 'local', 'administrator', 'group', 'or', 'the', 'power', 'user', 'group', 'Click', 'the', 'member', 'of', 'tab', 'click', 'add', 'and', 'then', 'click', 'either', 'the', 'administrators', 'or', 'power', 'users', 'group', 'Click', 'add', 'click', 'ok', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 5: [], 11: [], 14: [], 19: [], 23: [], 40: [], 45: [], 49: [], 57: [], 59: [], 63: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.16884626  0.50861466
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.39330876 -0.01207095
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ... -0.13361821  0.01484174
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'printers', 'Double-Click', 'add', 'printer', 'Click', 'next', 'click', 'local', 'printer', 'and', 'then', 'click', 'to', 'clear', 'the', 'automatically', 'detect', 'and', 'install', 'my', 'plug', 'and', 'play', 'printer', 'check', 'box', 'click', 'next', 'Click', 'the', 'appropriate', 'port', 'for', 'the', 'printer', 'and', 'then', 'click', 'next', 'In', 'the', 'manufacturers', 'box', 'click', 'epson', 'in', 'the', 'printers', 'box', 'click', 'epson', 'stylus', 'color', '800', 'esc/p', '2', 'and', 'then', 'click', 'next']","{0: [], 2: [], 7: [], 9: [], 12: [], 14: [], 19: [], 21: [], 34: [], 36: [], 45: [], 51: [], 57: [], 66: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.04457587  0.28138214
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.05461794 -0.09143645
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.0717498   0.00561295
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Double-Click', 'user', 'configuration', 'and', 'then', 'double-click', 'administrative', 'templates', 'Double-Click', 'system', 'and', 'then', 'double-click', 'group', 'policy', 'Double-Click', 'automatic', 'updates', 'to', '.adm', 'files', 'and', 'click', 'enabled']","{0: [], 5: [], 8: [], 12: [], 15: [], 22: []}","[[ 0.          0.          0.         ... -0.25138873 -0.01534017
+   2.        ]
+ [-0.53907001  0.033098    0.52284998 ...  0.28727394  0.23327366
+   1.        ]
+ [-0.98334002  0.46377     0.83126003 ... -0.00897405 -0.09931447
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Double-Click', 'the', 'root', 'ca', 'certificate', 'Click', 'install', 'certificate', 'to', 'start', 'the', 'certificate', 'import', 'wizard', 'Click', 'next', 'Click', 'place', 'all', 'certificates', 'in', 'the', 'following', 'store', 'and', 'then', 'click', 'browse', 'Click', 'to', 'select', 'the', 'show', 'physical', 'stores', 'check', 'box', 'Expand', 'trusted', 'root', 'certification', 'authorities', 'and', 'then', 'select', 'local', 'computer', 'Click', 'ok', 'Click', 'next', 'and', 'then', 'click', 'finish']","{0: [], 5: [], 9: [], 12: [], 14: [], 16: [], 26: [], 28: [], 30: [], 37: [], 44: [], 47: [], 49: [], 53: []}","[[ 0.          0.          0.         ... -0.04094572  0.02578554
+   2.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.42438281  0.10650756
+   1.        ]
+ [-0.66153002  0.98105001 -0.67136002 ... -0.03138497 -0.01937443
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'local', 'computer', 'policy', 'and', 'click', 'properties', 'Click', 'to', 'clear', 'the', 'disable', 'user', 'configuration', 'settings', 'and', 'disable', 'computer', 'configuration', 'settings', 'check', 'boxes']","{0: [], 5: [], 7: [], 9: []}","[[ 0.          0.          0.         ... -0.17414156  0.03991829
+   2.        ]
+ [-0.25705001 -0.056895   -0.38102999 ...  0.02924983  0.47465521
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ... -0.30111179  0.1893537
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['In', 'control', 'panel', 'open', 'the', 'printers', 'or', 'printers', 'and', 'faxes', 'folder', 'Right-Click', 'your', 'postscript', 'printer', 'and', 'then', 'click', 'properties', 'Click', 'printing', 'preferences', 'click', 'layout', 'and', 'then', 'click', 'advanced', 'Double-Click', 'postscript', 'options', 'and', 'then', 'click', 'truetype', 'font', 'download', 'option', 'In', 'the', 'true', 'type', 'font', 'download', 'option', 'box', 'click', 'automatic', 'if', 'automatic', 'is', 'already', 'selected', 'click', 'outline', 'or', 'bitmap']","{3: [], 11: [], 17: [], 19: [], 22: [], 26: [], 28: [], 33: [], 46: [], 53: []}","[[ 0.085703   -0.22201     0.16569    ...  0.43790153  0.01947102
+   1.        ]
+ [-0.16487999 -1.02699995  0.58678001 ... -0.24761954  0.13128272
+   1.        ]
+ [-0.26982     0.15716     0.6067     ...  0.17869905  0.50449795
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Start', 'device', 'manager', 'Click', 'view', 'and', 'then', 'click', 'show', 'hidden', 'devices', 'In', 'the', 'right', 'pane', 'of', 'device', 'manager', 'click', 'non-plug', 'and', 'play', 'drivers', 'Double-Click', 'afd', 'networking', 'support', 'environment', 'Under', 'device', 'usage', 'select', 'the', 'use', 'this', 'device', '(enable)', 'check', 'box', 'and', 'then', 'click', 'ok']","{0: [], 3: [], 7: [], 18: [], 23: [], 31: [], 41: []}","[[ 0.23336001  0.16042     0.050714   ... -0.08757665 -0.490751
+   2.        ]
+ [-0.52575999 -0.14904     0.34296    ...  0.19024076  0.00568046
+   1.        ]
+ [ 0.14024    -0.1865      0.19565    ... -0.1465131  -0.25847182
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'and', 'then', 'double-click', 'internet', 'options', 'On', 'the', 'content', 'tab', 'click', 'disable', 'in', 'the', 'content', 'advisor', 'section']","{0: [], 2: [], 5: [], 10: [], 17: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.04818624  0.52837646
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08867127  0.05263809
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.30422282  0.12230857
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'click', 'run', 'in', 'the', 'open', 'box', 'type', 'gpedit.msc', 'and', 'then', 'click', 'ok', 'In', 'the', 'group', 'policy', 'window', 'expand', 'computer', 'configuration', 'expand', 'administrative', 'templates', 'expand', 'system', 'and', 'then', 'double-click', 'group', 'policy', 'Double-Click', 'disk', 'quota', 'policy', 'processing', 'and', 'then', 'on', 'the', 'policy', 'tab', 'click', 'to', 'select', 'enable', 'Click', 'to', 'clear', 'the', 'following', 'two', 'check', 'boxes', 'allow', 'processing', 'across', 'a', 'slow', 'network', 'connection', 'do', 'not', 'apply', 'during', 'periodic', 'background', 'processing', 'Click', 'to', 'select', 'the', 'process', 'even', 'if', 'the', 'group', 'policy', 'objects', 'have', 'not', 'changed', 'check', 'box', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 8: [], 12: [], 19: [], 22: [], 25: [], 29: [], 32: [], 43: [], 45: [], 57: [], 49: [], 69: [], 71: [], 87: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.00427186  0.45114961
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.03604126 -0.14028186
+   1.        ]
+ [-0.76673001 -0.35962     0.38721001 ...  0.18205017  0.12902236
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'Double-Click', 'folder', 'options', 'Click', 'the', 'file', 'types', 'tab', 'Scroll', 'down', 'to', 'and', 'click', 'the', '.zip', 'extension', 'Click', 'advanced', 'Verify', 'that', 'confirm', 'open', 'after', 'download', 'is', 'selected']","{0: [], 2: [], 7: [], 10: [], 13: [], 18: [], 22: [], 26: [], 35: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'and', 'then', 'click', 'control', 'panel', 'In', 'control', 'panel', 'double-click', 'internet', 'options', 'In', 'the', 'internet', 'properties', 'dialog', 'box', 'click', 'the', 'programs', 'tab', 'Under', 'internet', 'programs', 'in', 'the', 'e-mail', 'list', 'click', 'eudora', 'Click', 'apply', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 7: [], 13: [], 22: [], 33: [], 35: [], 39: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03061777  0.29738787
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.08977053  0.00200686
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.24805674  0.08160175
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'all', 'programs', 'point', 'to', 'accessories', 'point', 'to', 'communications', 'and', 'then', 'click', 'remote', 'desktop', 'connection', 'Click', 'options', 'and', 'on', 'the', 'general', 'tab', 'click', 'open', 'and', 'locate', 'the', 'default.rdp', 'file', 'for', 'your', 'connection', 'if', 'you', 'want', 'to', 'open', 'a', 'saved', 'connection', 'click', 'open', 'C:10:', 'u:12', 'p:-1', '-', 'left', 'click', '(131596-0-l-2)', '[Item]', 'Default.rdp']","{0: [], 2: [], 6: [], 9: [], 14: [], 18: [], 25: [], 43: [], 28: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.04603634  0.48162824
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.55146492  0.07666468
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ... -0.08764508  0.02565528
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Start', 'internet', 'explorer', 'On', 'the', 'tools', 'menu', 'click', 'internet', 'options', 'and', 'then', 'click', 'the', 'connections', 'tab', 'Click', 'the', 'appropriate', 'connection', 'and', 'then', 'click', 'settings', 'Under', 'automatic', 'configuration', 'click', 'to', 'clear', 'the', 'automatically', 'detect', 'settings', 'check', 'box', 'Under', 'proxy', 'server', 'click', 'to', 'select', 'the', 'use', 'a', 'proxy', 'server', 'for', 'this', 'connection', '(these', 'settings', 'will', 'not', 'apply', 'to', 'other', 'connections)', 'check', 'box', 'If', 'do', 'not', 'want', 'to', 'use', 'the', 'proxy', 'server', 'for', 'local', '(intranet)', 'addresses', 'click', 'to', 'select', 'the', 'bypass', 'proxy', 'server', 'for', 'local', 'addresses', 'check', 'box', 'Click', 'ok', 'and', 'then', 'click', 'ok', 'again']","{0: [], 7: [], 12: [], 16: [], 22: [], 27: [], 29: [], 39: [], 41: [], 73: [], 75: [], 85: [], 89: []}","[[ 0.23336001  0.16042     0.050714   ...  0.03004482 -0.13090153
+   2.        ]
+ [ 0.17614     0.0020898   0.14669999 ... -0.17981125  0.44657665
+   1.        ]
+ [-0.72951001 -0.16535001  0.85606998 ... -0.24562666 -0.01754175
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'select', 'settings', 'click', 'control', 'panel', 'click', 'printers', 'and', 'other', 'hardware', 'and', 'then', 'click', 'printers', 'and', 'faxes', 'Click', 'add', 'a', 'printer', 'to', 'start', 'the', 'add', 'printer', 'wizard', 'and', 'then', 'click', 'next', 'Click', 'local', 'printer', 'click', 'to', 'clear', 'the', 'automatically', 'detect', 'and', 'install', 'check', 'box', 'and', 'then', 'click', 'next', 'In', 'the', 'use', 'the', 'following', 'port', 'box', 'select', 'the', 'printer', 'port', 'to', 'be', 'used', 'for', 'example', 'select', 'lpt1', 'Click', 'next', 'and', 'then', 'click', 'have', 'disk', 'In', 'the', 'copy', ""manufacturer's"", 'files', 'from', 'box', 'type', 'c:\\path\\printers\\nt4\\i386', 'where', 'path', 'is', 'the', 'path', 'of', 'your', 'windows', 'nt', '4.0', 'cd', 'Click', 'browse', 'and', 'then', 'click', 'the', 'hplj6.inf', 'file', 'Click', 'open', 'and', 'then', 'click', 'ok', 'In', 'the', 'manufacturers', 'list', 'click', 'hp', 'and', 'then', 'in', 'the', 'printers', 'list', 'click', 'hp', 'laserjet', '4si', 'click', 'next']","{0: [], 2: [], 4: [], 7: [], 14: [], 18: [], 25: [], 30: [], 32: [], 35: [], 37: [], 47: [], 56: [], 65: [], 67: [], 71: [], 81: [], 94: [], 97: [], 102: [], 106: [], 112: [], 120: [], 124: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.02086943  0.36839196
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.17310141 -0.12936968
+   1.        ]
+ [-0.42039001  0.20987999  0.13553999 ...  0.41570145  0.06801151
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'and', 'then', 'click', 'run', 'In', 'the', 'open', 'box', 'type', 'regedit', 'and', 'then', 'click', 'ok', 'In', 'registry', 'editor', 'expand', 'the', 'following', 'registry', 'subkey', 'hkey_local_machine', '\\', 'system', '\\', 'currentcontrolset', '\\', 'control', '\\', 'session', 'manager', 'Click', 'export', 'registry', 'file', 'on', 'the', 'registry', 'menu', 'In', 'the', 'file', 'name', 'box', 'type', 'session', 'manager', 'key', 'and', 'then', 'click', 'save', 'In', 'the', 'right', 'pane', 'of', 'the', 'registry', 'editor', 'window', 'right-click', 'resourcetimeoutcount', 'and', 'then', 'on', 'the', 'shortcut', 'menu', 'that', 'appears', 'click', 'delete', 'On', 'the', 'confirm', 'value', 'delete', 'message', 'that', 'appears', 'click', 'yes', 'Click', 'exit', 'on', 'the', 'registry', 'menu']","{0: [], 4: [], 10: [], 14: [], 19: [], 34: [], 47: [], 53: [], 64: [], 74: [], 84: [], 86: []}","[[-7.66730011e-01 -3.59620005e-01  3.87210011e-01 ... -8.62208977e-02
+   3.47338617e-01  2.00000000e+00]
+ [ 2.33360007e-01  1.60420001e-01  5.07140011e-02 ... -1.57166332e-01
+  -4.15991485e-01  1.00000000e+00]
+ [-7.19529986e-02  2.31270000e-01  2.37310007e-02 ...  1.93878978e-01
+   1.84503850e-03  1.00000000e+00]
+ ...
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]
+ [ 0.00000000e+00  0.00000000e+00  0.00000000e+00 ...  0.00000000e+00
+   0.00000000e+00  1.00000000e+00]]"
+"['On', 'the', 'computer', 'running', 'windows', '2000', 'right-click', 'my', 'network', 'places', 'and', 'then', 'click', 'properties', 'Right-Click', 'the', 'direct', 'cable', 'connection', 'and', 'then', 'click', 'properties', 'On', 'the', 'security', 'tab', 'click', 'advanced', '(custom', 'settings)', 'and', 'then', 'click', 'settings', 'Click', 'to', 'select', 'the', 'allow', 'older', 'ms-chap', 'version', 'for', 'windows', '95', 'servers', 'check', 'box', 'click', 'ok', 'and', 'then', 'click', 'ok']","{6: [], 12: [], 14: [], 21: [], 27: [], 33: [], 35: [], 37: [], 49: [], 53: []}","[[-0.21863    -0.42664     0.51959997 ...  0.08801734 -0.2617285
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.23906904 -0.12718169
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ...  0.07360281  0.3777003
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'and', 'then', 'double-click', 'scheduled', 'tasks', 'Right-Click', 'the', 'task', 'you', 'want', 'to', 'disable', 'and', 'then', 'click', 'properties', 'On', 'the', 'task', 'tab', 'click', 'to', 'clear', 'the', 'enabled', '(scheduled', 'task', 'runs', 'at', 'specified', 'time)', 'check', 'box', 'and', 'then', 'click', 'ok']","{0: [], 2: [], 5: [], 10: [], 13: [], 22: [], 28: [], 30: [], 43: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.00523554  0.51945764
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.06052231 -0.0294357
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.33462965  0.06726237
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'programs', 'point', 'to', 'administrative', 'tools', 'and', 'then', 'click', 'local', 'security', 'policy', 'Click', 'to', 'expand', 'the', 'security', 'settings', 'node', 'in', 'the', 'left', 'pane', 'and', 'then', 'click', 'the', 'ip', 'security', 'policies', 'node', 'Double-Click', 'the', 'secure', 'server', '(require', 'security)', 'policy', 'in', 'the', 'right', 'pane', 'Click', 'to', 'clear', 'the', 'all', 'ip', 'traffic', 'and', 'the', 'dynamic', 'check', 'boxes', 'and', 'then', 'click', 'to', 'select', 'the', 'all', 'icmp', 'traffic', 'check', 'box', 'Double-Click', 'the', 'all', 'icmp', 'traffic', 'rule', 'Click', 'the', 'filter', 'action', 'tab', 'and', 'then', 'click', 'require', 'security', 'Click', 'apply', 'and', 'then', 'click', 'ok', 'Click', 'close']","{0: [], 2: [], 5: [], 11: [], 15: [], 17: [], 28: [], 34: [], 45: [], 47: [], 59: [], 61: [], 68: [], 74: [], 81: [], 84: [], 88: [], 90: []}","[[-0.76673001 -0.35962     0.38721001 ... -0.16832775  0.51499224
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ... -0.47075108 -0.00425631
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ... -0.07959343 -0.01367796
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Open', 'device', 'manager', 'On', 'the', 'view', 'menu', 'click', 'to', 'select', 'the', 'show', 'hidden', 'devices', 'check', 'box', 'Double-Click', 'non-plug', 'and', 'play', 'drivers', 'Double-Click', 'netbios', 'over', 'tcpip', 'In', 'the', 'device', 'usage', 'box', 'click', 'use', 'this', 'device', '(enable)']","{0: [], 7: [], 9: [], 16: [], 21: [], 30: []}","[[-0.61034     0.60236001  0.61764997 ...  0.29661703  0.32784
+   2.        ]
+ [-0.52575999 -0.14904     0.34296    ...  0.23826444  0.20710059
+   1.        ]
+ [ 0.14024    -0.1865      0.19565    ... -0.00952915 -0.16700219
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['In', 'control', 'panel', 'double-click', 'internet', 'options', 'On', 'the', 'connections', 'tab', 'click', 'lan', 'settings', 'In', 'the', 'proxy', 'server', 'area', 'click', 'to', 'select', 'the', 'use', 'a', 'proxy', 'server', 'for', 'your', 'lan', '(these', 'settings', 'will', 'not', 'apply', 'to', 'dial-up', 'or', 'vpn', 'connections)', 'check', 'box', 'and', 'then', 'click', 'ok']","{3: [], 10: [], 18: [], 20: [], 43: []}","[[ 0.085703   -0.22201     0.16569    ...  0.25372002 -0.16127513
+   1.        ]
+ [-0.16487999 -1.02699995  0.58678001 ... -0.11330755  0.17761037
+   1.        ]
+ [-0.26982     0.15716     0.6067     ... -0.03176882  0.56246579
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['In', 'control', 'panel', 'double-click', 'system', 'click', 'hardware', 'and', 'then', 'click', 'device', 'manager', 'Expand', 'ide', 'ata/atapi', 'controllers', 'right-click', 'pci', 'bus', 'master', 'ide', 'controller', 'and', 'then', 'click', 'properties', 'Click', 'driver', 'and', 'then', 'click', 'update', 'driver', 'Click', 'next', 'click', 'display', 'a', 'list', 'of', 'known', 'drivers', 'for', 'this', 'device', 'so', 'that', 'i', 'can', 'choose', 'a', 'specific', 'driver', 'and', 'then', 'click', 'next', 'Click', 'show', 'all', 'hardware', 'for', 'this', 'device', 'class', 'click', 'standard', 'ide', 'ata/atapi', 'controllers', 'in', 'the', 'manufacturers', 'list', 'and', 'then', 'click', 'standard', 'ide/esdi', 'hard', 'disk', 'controllers', 'in', 'the', 'models', 'list']","{3: [], 5: [], 9: [], 12: [], 16: [], 24: [], 26: [], 30: [], 33: [], 35: [], 55: [], 57: [], 65: [], 76: []}","[[ 0.085703   -0.22201     0.16569    ...  0.33999285 -0.08724099
+   1.        ]
+ [-0.16487999 -1.02699995  0.58678001 ... -0.13297465  0.17264321
+   1.        ]
+ [-0.26982     0.15716     0.6067     ...  0.01077161  0.43277064
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['In', 'control', 'panel', 'double-click', 'phone', 'and', 'modem', 'options', 'Click', 'modems', 'and', 'then', 'click', 'add', 'Click', 'to', 'select', 'the', ""don't"", 'detect', 'my', 'modem;', 'i', 'will', 'select', 'it', 'from', 'a', 'list', 'check', 'box', 'and', 'then', 'click', 'next', 'In', 'the', 'manufacturers', 'list', 'click', 'boca', 'research', 'In', 'the', 'models', 'list', 'click', 'boca', '33.6', 'kbps', 'internal', 'fd34fsvd', 'and', 'then', 'click', 'next', 'Click', 'the', 'com', 'port', 'where', 'you', 'want', 'to', 'install', 'the', 'modem', 'and', 'then', 'click', 'next', 'Click', 'finish']","{3: [], 8: [], 12: [], 14: [], 16: [], 33: [], 39: [], 46: [], 54: [], 56: [], 69: [], 71: []}","[[ 0.085703   -0.22201     0.16569    ...  0.24469405 -0.06589969
+   1.        ]
+ [-0.16487999 -1.02699995  0.58678001 ... -0.32861245  0.38490319
+   1.        ]
+ [-0.26982     0.15716     0.6067     ... -0.14030156  0.67298102
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'internet', 'options', 'on', 'the', 'tools', 'menu', 'and', 'then', 'click', 'the', 'security', 'tab', 'Click', 'internet', 'in', 'the', 'select', 'a', 'web', 'content', 'zone', 'to', 'specify', 'its', 'security', 'settings', 'section', 'and', 'then', 'click', 'custom', 'level', 'In', 'the', 'run', 'activex', 'scripts', 'and', 'plugins', 'section', 'click', 'disable', 'and', 'then', 'click', 'ok']","{0: [], 9: [], 13: [], 23: [], 30: [], 41: [], 45: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.18828481  0.23797356
+   2.        ]
+ [ 0.17614     0.0020898   0.14669999 ...  0.68432546  0.52589947
+   1.        ]
+ [ 0.14804     0.31521001  0.10215    ...  0.13481078  0.11570766
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Start', 'the', 'network', 'and', 'dial-up', 'connection', 'tool', 'in', 'control', 'panel', 'Right-Click', 'the', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'Click', 'internet', 'protocol', 'and', 'then', 'click', 'properties', 'Click', 'advanced', 'and', 'then', 'click', 'the', 'dns', 'tab', 'Click', 'to', 'select', 'the', 'use', 'this', ""connection's"", 'dns', 'suffix', 'in', 'dns', 'registrations', 'check', 'box']","{0: [], 10: [], 17: [], 19: [], 24: [], 26: [], 30: [], 34: [], 36: []}","[[ 0.23336001  0.16042     0.050714   ...  0.15335469  0.20017825
+   2.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.52216887  0.34429213
+   1.        ]
+ [ 0.22336    -0.18421    -0.071397   ...  0.04907704  0.33103523
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['In', 'windows', 'explorer', 'click', 'folder', 'options', 'on', 'the', 'tools', 'menu', 'On', 'the', 'view', 'tab', 'click', 'show', 'hidden', 'files', 'and', 'folders', 'Click', 'to', 'clear', 'the', 'hide', 'protected', 'operating', 'system', 'files', 'check', 'box', 'and', 'then', 'click', 'ok']","{3: [], 14: [], 20: [], 22: [], 33: []}","[[ 0.085703   -0.22201     0.16569    ...  0.48117656 -0.11791839
+   1.        ]
+ [-0.54193997  0.39576     0.21015    ... -0.23252037  0.44921342
+   1.        ]
+ [-0.72951001 -0.16535001  0.85606998 ...  0.26587421  0.02267868
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'click', 'run', 'in', 'the', 'open', 'box', 'type', 'compmgmt.msc', 'and', 'then', 'click', 'ok', 'In', 'the', 'computer', 'management', 'window', 'expand', 'system', 'tools', 'expand', 'users', 'and', 'groups', 'and', 'then', 'click', 'the', 'users', 'folder', 'In', 'the', 'right', 'pane', 'of', 'the', 'computer', 'management', 'window', 'right-click', 'the', 'user', 'whose', 'user', 'rights', 'you', 'want', 'to', 'verify', 'and', 'then', 'click', 'properties', 'On', 'the', 'member', 'of', 'tab', 'verify', 'that', 'administrators', 'is', 'listed', 'in', 'the', 'member', 'of', 'box']","{0: [], 2: [], 8: [], 12: [], 19: [], 22: [], 28: [], 41: [], 53: [], 59: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.03029867  0.45567334
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.04986842 -0.14583075
+   1.        ]
+ [-0.76673001 -0.35962     0.38721001 ...  0.20592737  0.14704747
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'network', 'places', 'and', 'then', 'click', 'properties', 'Select', 'the', 'internal', 'adapter', 'that', 'contains', 'the', 'sap', 'agent', 'that', 'is', 'local', 'area', 'connection', 'and', 'then', 'click', 'properties', 'Select', 'sap', 'agent', 'and', 'then', 'click', 'uninstall']","{0: [], 6: [], 8: [], 24: [], 26: [], 31: []}","[[ 0.          0.          0.         ...  0.09262022  0.11115278
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.49870336  0.18743245
+   1.        ]
+ [ 0.22336    -0.18421    -0.071397   ... -0.0392958   0.07156568
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'network', 'places', 'and', 'then', 'click', 'properties', 'Right-Click', 'the', 'dial-up', 'adapter', 'and', 'then', 'click', 'properties', 'Click', 'the', 'options', 'tab', 'Click', 'to', 'select', 'the', 'display', 'progress', 'while', 'connecting', 'check', 'box', 'Click', 'ok']","{0: [], 6: [], 8: [], 14: [], 16: [], 20: [], 22: [], 30: []}","[[ 0.          0.          0.         ...  0.09262022  0.11115278
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.49870336  0.18743245
+   1.        ]
+ [ 0.22336    -0.18421    -0.071397   ... -0.0392958   0.07156568
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Open', 'the', 'internet', 'explorer', 'window', 'click', 'tools', 'and', 'then', 'click', 'internet', 'options', 'In', 'the', 'internet', 'options', 'window', 'click', 'the', 'general', 'tab', 'under', 'temporary', 'internet', 'files', 'click', 'delete', 'files', 'and', 'then', 'click', 'ok']","{0: [], 5: [], 9: [], 17: [], 25: [], 30: []}","[[-0.61034     0.60236001  0.61764997 ...  0.28506321  0.18594868
+   2.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.65100241  0.38001862
+   1.        ]
+ [ 0.17614     0.0020898   0.14669999 ...  0.11594393  0.0593229
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Double-Click', 'my', 'computer', 'On', 'the', 'tools', 'menu', 'click', 'folder', 'options', 'Click', 'the', 'offline', 'files', 'tab', 'and', 'then', 'click', 'to', 'select', 'the', 'enable', 'offline', 'files', 'check', 'box', 'you', 'can', 'either', 'enable', 'or', 'disable', 'the', 'check', 'box', 'for', 'client-side', 'caching']","{0: [], 7: [], 10: [], 17: [], 19: []}","[[ 0.          0.          0.         ... -0.0262778  -0.06155529
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.05461434 -0.2096357
+   1.        ]
+ [-0.16298001  0.30140999  0.57977998 ... -0.11416405  0.19584274
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Click', 'start', 'point', 'to', 'settings', 'click', 'control', 'panel', 'and', 'then', 'double-click', 'regional', 'options', 'On', 'the', 'general', 'tab', 'click', 'to', 'select', 'the', 'cyrillic', 'check', 'box', 'under', 'language', 'settings', 'for', 'the', 'system', 'and', 'then', 'click', 'ok', 'You', 'are', 'then', 'prompted', 'to', 'copy', 'files', 'click', 'ok']","{0: [], 2: [], 5: [], 10: [], 17: [], 19: [], 32: [], 41: []}","[[-0.76673001 -0.35962     0.38721001 ...  0.06557172  0.50311065
+   2.        ]
+ [ 0.23336001  0.16042     0.050714   ...  0.05205366  0.04047692
+   1.        ]
+ [ 0.17269    -0.027609    0.49901    ...  0.31588548  0.08632084
+   2.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Right-Click', 'my', 'network', 'places', 'and', 'then', 'click', 'properties', 'Right-Click', 'the', 'cable', 'connection', 'and', 'then', 'click', 'properties', 'Click', 'to', 'clear', 'the', 'show', 'icon', 'in', 'taskbar', 'when', 'connected', 'check', 'box', 'and', 'then', 'click', 'ok']","{0: [], 6: [], 9: [], 14: [], 16: [], 18: [], 30: []}","[[ 0.          0.          0.         ...  0.09262022  0.11115278
+   2.        ]
+ [ 0.080273   -0.10861     0.72066998 ...  0.49870336  0.18743245
+   1.        ]
+ [ 0.22336    -0.18421    -0.071397   ... -0.0392958   0.07156568
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Start', 'registry', 'editor', '(regedt32.exe)', 'Locate', 'the', 'following', 'key', 'in', 'the', 'registry', 'hkey_local_machine', '\\', 'system', '\\', 'currentcontrolset', '\\', 'services', '\\', 'afd', 'In', 'the', 'right', 'pane', 'of', 'the', 'registry', 'editor', 'window', 'double-click', 'the', 'value', 'start', 'Type', '2', 'in', 'the', 'value', 'data', 'box', 'and', 'then', 'click', 'ok']","{0: [], 4: [], 29: [], 33: [], 42: []}","[[ 0.23336001  0.16042     0.050714   ...  0.0839021  -0.04809912
+   2.        ]
+ [ 0.25895    -0.093868    0.48635    ...  0.16191214  0.14325374
+   1.        ]
+ [-1.12220001 -0.92471999 -0.34771001 ...  0.2652083   0.03830776
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['On', 'the', 'desktop', 'right-click', 'my', 'network', 'places', 'and', 'then', 'click', 'properties', 'Right-Click', 'the', 'internal', 'adapter', 'and', 'then', 'click', 'properties', 'Click', 'internet', 'protocol', '(tcp/ip)', 'and', 'then', 'click', 'properties', 'Click', 'the', 'advanced', 'button', 'Click', 'the', 'dns', 'tab', 'and', 'then', 'click', 'to', 'select', 'the', 'register', 'this', ""connection's"", 'addresses', 'in', 'dns', 'check', 'box', 'at', 'the', 'bottom', 'of', 'the', 'tab', 'Click', 'ok', 'until', 'the', 'network', 'properties', 'dialog', 'box', 'is', 'closed']","{3: [], 9: [], 11: [], 17: [], 19: [], 25: [], 27: [], 31: [], 37: [], 39: [], 55: [], 64: []}","[[-0.21863    -0.42664     0.51959997 ...  0.41416863 -0.40591609
+   1.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.43911076  0.07916865
+   1.        ]
+ [-0.64516002  0.54505002  0.41859999 ...  0.13543096  0.29807851
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
+"['Double-Click', 'the', 'sounds', 'and', 'multimedia', 'in', 'the', 'control', 'panel', 'On', 'the', 'sounds', 'tab', 'under', 'sound', 'volume', 'click', 'to', 'clear', 'the', 'show', 'volume', 'control', 'on', 'the', 'taskbar', 'check', 'box', 'and', 'then', 'click', 'ok']","{0: [], 16: [], 18: [], 30: []}","[[ 0.          0.          0.         ...  0.17367597  0.03695387
+   2.        ]
+ [-0.038194   -0.24487001  0.72812003 ...  0.47583908  0.4463596
+   1.        ]
+ [-0.14099     0.64797002  1.34319997 ... -0.11728638  0.32946318
+   1.        ]
+ ...
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]
+ [ 0.          0.          0.         ...  0.          0.
+   1.        ]]"
